@@ -7,3 +7,7 @@
     AWS API Gateway
     AWS Lambda
     AWS RDS MySql
+    
+    
+#### Public Access
+     http://muffin-serverless-app.s3-website-us-east-1.amazonaws.com
