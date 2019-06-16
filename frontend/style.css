@@ -1,0 +1,262 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    height: 80vh;
+}
+
+h1 {
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+ul {
+    padding-inline-start: 0;
+    margin-block-end: 0;
+    margin-block-start: 0;
+    list-style-type: none;
+}
+
+p {
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+.form--centered {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #F5F5F5;
+    border: 1px solid black;
+    border-radius: 0.5em;
+    padding-bottom: 1em;
+}
+
+.form--small {
+    width: 400px;
+}
+
+.form--big {
+    width: 1000px;
+}
+
+.form__heading {
+    background-color: darkcyan;
+    color: white;
+    text-align: center;
+    padding: 0.5em 0;
+    width: 100%;
+    border-radius: 0.3em;
+}
+
+.form__title {
+    font-size: 1.5em;
+}
+
+.form__item {
+    width: 80%;
+    height: 2.5em;
+    margin-top: 1.3em;
+    border: 1px solid black;
+    border-radius: 0.5em;
+}
+
+.form__item--invalid {
+    color: red;
+    margin-top: 0.5em;
+    display: none;
+    width: 80%;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.form__radio-options {
+    margin-top: 0.5em;
+}
+
+input::placeholder {
+    padding-left: 0.3em;
+}
+
+.form__button {
+    background-color: darkcyan;
+    color: white;
+    border-style: solid;
+    border-color: darkcyan;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 1.1em;
+}
+
+.dashboard__menu {
+    float: left;
+    width: 15%;
+    min-width: 200px;
+    margin-right: 1em;
+    font-size: 1.1em;
+    height: 100%;
+}
+
+.dashboard__menu-button {
+    border: 1px solid darkcyan;
+    display: inline-block;
+    padding: 0.2em;
+    border-radius: 0.5em;
+    color: darkcyan;
+    transition: all .2s ease-in-out;
+    cursor: pointer;
+    font-weight: bold;
+}
+.dashboard__menu-button:hover {
+    transform: scale(1.05);
+}
+
+.dashboard__mailboxes {
+    margin: 1em 0 1em 0;
+    font-size: 1.2em;
+    overflow-y: auto;
+    overflow-x: hidden;
+    max-height: 80%;
+}
+
+.dashboard__mailboxes-list {
+    padding: 0.25em;
+}
+
+.dashboard__mailbox {
+    border: 1px solid darkcyan;
+    margin-top: 0.3em;
+    padding-left: 0.5em;
+    transition: all .2s ease-in-out;
+    cursor: pointer;
+}
+
+.dashboard__mailbox:hover {
+    transform: scale(1.05);
+}
+
+.dashboard__mailbox--selected {
+    color: white;
+    border: 1px solid darkcyan;
+    background-color: darkcyan;
+}
+
+.dashboard__mails {
+    overflow: auto;
+    max-width: 70%;
+    background: rgba(242, 245, 245, 0.8);
+    font-size: 1.1em;
+    height: 100%;
+    padding: 0.3em;
+}
+
+.dashboard__mail-details {
+    overflow: auto;
+    max-width: 70%;
+    display: none;
+    background: rgba(242, 245, 245, 0.8);
+    font-size: 1.3em;
+    height: 100%;
+    padding: 0.3em;
+    border: 1px solid gray;
+}
+
+.dashboard__mail {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    min-width: 500px;
+    cursor: pointer;
+    padding-top: 0.4em;
+    padding-bottom: 0.4em;
+    transition: all .1s ease-in-out;
+    border-top: 1px solid darkcyan;
+    border-bottom: 1px solid darkcyan;
+}
+
+.dashboard__mail:first-child {
+    border-top: 2px solid darkcyan;
+}
+
+.dashboard__mail:last-child {
+    border-bottom: 2px solid darkcyan;
+}
+
+.dashboard__mail:hover {
+    border-right: 2px solid darkcyan;
+    border-left: 2px solid darkcyan;
+}
+
+.dashboard__mail-heading {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.5em;
+}
+
+.dashboard__mail-from {
+    margin-bottom: 0.2em;
+}
+
+.dashboard__mail-text {
+    text-align: justify;
+    margin: 0 0 0.5em 0;
+}
+
+.dashboard__mail-subject {
+    position: relative;
+    top: -8px;
+}
+
+.dashboard__mail--unread {
+    font-weight: bold;
+}
+
+.mail__message-area {
+    height: auto;
+}
+
+.form__item--hidden {
+    display: none;
+}
+
+.info-message--success {
+    margin: auto;
+    width: 400px;
+    text-align: center;
+    padding-top: 1em;
+    display: none;
+    color: green;
+}
+
+.info-message--error {
+    margin: auto;
+    width: 400px;
+    text-align: center;
+    padding-top: 1em;
+    color: red;
+}
+
+.mail__item {
+    width: 25%;
+}
+
+.mail__item--right {
+    text-align: right;
+}
+
+.dashboard__mail-correspondent {
+    font-style: italic; 
+}
+
+.logo {
+    width: 100%;
+    text-align: center;
+}
+
+.brand {
+    font-weight: 500;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+    font-size: 96px;
+}

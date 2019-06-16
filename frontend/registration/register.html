@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title> Регистрация </title>
+        <link rel="stylesheet" type="text/css" href="../style.css"/>
+        <script type="text/javascript" src="../common/validators.js"></script>
+        <script type="text/javascript" src="register.js"></script>
+    </head>
+    <body onkeypress="handleEnter(event)">
+        <div class="logo">
+            <img src="../img/muffin.png" height="100">
+            <span class="brand"> Muffin </span>
+        </div>
+        <form id="registration-form"
+              name="registration-form"
+              class="form--centered form--small">
+            <header class="form__heading"><h1 class="form__title">Регистрация</h1></header>
+            <input class="form__item" placeholder="Имейл" name="email">
+            <div id="email-error" class="form__item--invalid"> * Задължително поле. Позволени са само букви, цифри, точка и ￿'@'. Максимална дължина 64 символа. </div>
+            <input class="form__item" placeholder="Парола" name="password" type="password">
+            <div id="password-error" class="form__item--invalid"> * Задължително поле. Паролата трябва да е поне 6 символа. Максимална дължина 64 символа. </div>
+            <input class="form__item" placeholder="Повтори паролата" name="repeated-password" type="password">
+            <div id="repeat-password-error" class="form__item--invalid"> * Паролите трябва да съвпадат. </div>
+            <input class="form__item" placeholder="Име" name="fname">
+            <div id="fname-error" class="form__item--invalid"> * Задължително поле. Името може да съдържа само букви. Максимална дължина 255 символа. </div>
+            <input class="form__item" placeholder="Фамилия" name="lname">
+            <div id="lname-error" class="form__item--invalid"> * Задължително поле. Фамилията може да съдържа само букви. Максимална дължина 255 символа. </div>
+            <input class="form__item" placeholder="Факултетен номер" name="fn">
+            <div id="fn-error" class="form__item--invalid"> * Задължително поле. Факултетният номер се състои от 5 цифри. </div>
+            <div id="unsuccessful-registration" class="form__item--invalid"> Неуспешна регистрация. Потребителското име или факултетният номер са заети. </div>
+            <button class="form__item form__button" type="button" onclick="register()"> Регистрация </button>
+            <button class="form__item form__button" type="button" onclick="backToLogin()"> Назад към влизане </button>
+        </form>
+    </body>
+</html>

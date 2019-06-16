@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title> Влизане </title>
+        <link rel="stylesheet" type="text/css" href="style.css"/>
+        <script type="text/javascript" src="login/login.js"></script>
+    </head>
+    <body onkeypress="handleEnter(event)">
+        <div class="logo">
+            <img src="img/muffin.png" height="100">
+            <span class="brand"> Muffin </span>
+        </div>
+        <form action="post" id="login-form"
+              name="login-form"
+              class="form--centered form--small">
+            <header class="form__heading"><h1 class="form__title">Влизане</h1></header>
+            <input class="form__item" placeholder="Имейл" name="email">
+            <input class="form__item" placeholder="Парола" name="password" type="password">
+            <div id="wrong-credentials" class="form__item--invalid"> Грешен имейл или парола! </div>
+            <button class="form__item form__button" type="button" onclick="login()"> Вход </button>
+            <button class="form__item form__button" type="button" onclick="register()"> Регистрация </button>
+        </form>
+        <div id="success-message" class="info-message--success"></div>
+    </body>
+</html>

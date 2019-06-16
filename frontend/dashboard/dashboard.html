@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title> Табло </title>
+        <link rel="stylesheet" type="text/css" href="../style.css"/>
+<!--        <script type="text/javascript" src="dashboard.js"></script>-->
+    </head>
+    <body>
+        <div class="logo">
+            <img src="../img/muffin.png" height="100">
+            <span class="brand"> Muffin </span>
+        </div>
+        <nav class="dashboard__menu">
+            <div class="dashboard__menu-button" onclick="sendMail()"> Изпрати </div>
+            <div class="dashboard__mailboxes">
+                Кутии
+                <ul id="mailboxes" class="dashboard__mailboxes-list"></ul>
+                </div>
+            <div class="dashboard__menu-button" onclick="logOut()"> Изход </div>
+        </nav>
+        <section id="mails" class="dashboard__mails">
+        </section>
+        <section id="mail-detail" class="dashboard__mail-details">
+            <header class="dashboard__mail-heading">
+                <h1 id="mail-subject" class="dashboard__mail-subject"></h1>
+                <span id="mail-date"></span>
+            </header>
+            <div class="dashboard__mail-from"> <span class="dashboard__mail-correspondent"> От: </span> <span id="mail-from"></span> </div>
+            <div> <span class="dashboard__mail-correspondent"> За: </span> <span id="mail-to"></span> </div>
+            <hr>
+            <p id="mail-text" class="dashboard__mail-text"></p>
+        </section>
+
+    </body>
+</html>

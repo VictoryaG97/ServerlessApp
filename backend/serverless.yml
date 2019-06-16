@@ -1,0 +1,40 @@
+service: muffin-serverless-app
+
+provider:
+  name: aws
+  runtime: python3.7
+  role: arn:aws:iam::994423494507:role/robomaker_students
+
+# you can overwrite defaults here
+#  stage: dev
+#  region: us-east-1
+
+  environment:
+    DB_URL: mysql+pymysql://vguncheva:12345678@muffindb.cvzp6pu50kcj.us-east-1.rds.amazonaws.com:3306/muffindb
+
+plugins:
+  - serverless-python-requirements
+  - serverless-offline
+
+functions:
+  registration:
+    handler: registration.register
+    events:
+      - http:
+          path: /register
+          method: post
+          cors: true
+  login:
+    handler: login.login
+    events:
+      - http:
+          path: /login
+          method: post
+          cors: true
+
+package:
+  excludeDevDependencies: true
+  exclude:
+    - node_modules/**
+    - venv/**
+    - .serverless/**
