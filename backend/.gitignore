@@ -1,0 +1,10 @@
+.Python
+venv/
+.DS_Store
+*.pyc
+.serverless/
+.pytest_cache
+.vscode/
+node_modules/
+.idea/
+
