@@ -1,121 +1,139 @@
-IyBDbG91ZFdhdGNoIEV4cG9ydGVyCgpBbiBbQVdTIENsb3VkV2F0Y2hdKGh0
-dHA6Ly9hd3MuYW1hem9uLmNvbS9jbG91ZHdhdGNoLykgZXhwb3J0ZXIgZm9y
-IFtQcm9tZXRoZXVzXShodHRwczovL2dpdGh1Yi5jb20vcHJvbWV0aGV1cy9w
-cm9tZXRoZXVzKSBjb2RlZCBpbiBHbywgd2l0aCBtdWx0aS1yZWdpb24gYW5k
-IGR5bmFtaWMgdGFyZ2V0IHN1cHBvcnQuCgoKIyMgSG93IHRvIGNvbmZpZ3Vy
-ZQoKVGhlIGNvbmZpZ3VyYXRpb24gaXMgaW4gWUFNTCBhbmQgdHJpZXMgdG8g
-c3RheSBpbiB0aGUgc2FtZSBzcGlyaXQgYXMgdGhlIG9mZmljaWFsIGV4cG9y
-dGVyLgoKYGBgeWFtbAp0YXNrczoKIC0gbmFtZTogYmlsbGluZwogICBkZWZh
-dWx0X3JlZ2lvbjogdXMtZWFzdC0xCiAgIG1ldHJpY3M6CiAgICAtIGF3c19u
-YW1lc3BhY2U6ICJBV1MvQmlsbGluZyIKICAgICAgYXdzX2RpbWVuc2lvbnM6
-IFtDdXJyZW5jeV0KICAgICAgYXdzX2RpbWVuc2lvbnNfc2VsZWN0OgogICAg
-ICAgIEN1cnJlbmN5OiBbVVNEXQogICAgICBhd3NfbWV0cmljX25hbWU6IEVz
-dGltYXRlZENoYXJnZXMKICAgICAgYXdzX3N0YXRpc3RpY3M6IFtNYXhpbXVt
-XQogICAgICByYW5nZV9zZWNvbmRzOiA4NjQwMAoKIC0gbmFtZTogZWMyX2Ns
-b3Vkd2F0Y2gKICAgbWV0cmljczoKICAgIC0gYXdzX25hbWVzcGFjZTogIkFX
-Uy9FQzIiCiAgICAgIGF3c19kaW1lbnNpb25zOiBbSW5zdGFuY2VJZF0KICAg
-ICAgYXdzX2RpbWVuc2lvbnNfc2VsZWN0OgogICAgICAgIEluc3RhbmNlSWQ6
-IFskX3RhcmdldF0KICAgICAgYXdzX21ldHJpY19uYW1lOiBDUFVVdGlsaXph
-dGlvbgogICAgICBhd3Nfc3RhdGlzdGljczogW0F2ZXJhZ2VdCgogICAgLSBh
-d3NfbmFtZXNwYWNlOiAiQVdTL0VDMiIKICAgICAgYXdzX2RpbWVuc2lvbnM6
-IFtJbnN0YW5jZUlkXQogICAgICBhd3NfZGltZW5zaW9uc19zZWxlY3Q6CiAg
-ICAgICAgSW5zdGFuY2VJZDogWyRfdGFyZ2V0XQogICAgICBhd3NfbWV0cmlj
-X25hbWU6IE5ldHdvcmtPdXQKICAgICAgYXdzX3N0YXRpc3RpY3M6IFtBdmVy
-YWdlXQoKICAtIG5hbWU6IHZwbl9tb24KICAgIG1ldHJpY3M6CiAgICAgLSBh
-d3NfbmFtZXNwYWNlOiAiQVdTL1ZQTiIKICAgICAgIGF3c19kaW1lbnNpb25z
-OiBbVnBuSWRdCiAgICAgICBhd3NfZGltZW5zaW9uc19zZWxlY3Q6CiAgICAg
-ICAgIFZwbklkOiBbJF90YXJnZXRdCiAgICAgICBhd3NfbWV0cmljX25hbWU6
-IFR1bm5lbFN0YXRlCiAgICAgICBhd3Nfc3RhdGlzdGljczogW0F2ZXJhZ2Vd
-CiAgICAgICByYW5nZV9zZWNvbmRzOiAzNjAwCmBgYAoKCiMjIyBXaGF0IGFy
-ZSAiVGFza3MiIGFuZCAiJF90YXJnZXQiPwoKVGFza3MgYXJlIHVzZWQgdG8g
-ZGVzY3JpYmUgYSBDbG91ZFdhdGNoIHNjcmFwZSB0aGF0IGNhbiBiZSByZXVz
-ZWQgb24gYSB3aG9sZSBzZXQgb2YgaW5zdGFuY2VzIGFuZCBldmVuIGNyb3Nz
-LXJlZ2lvbi4KClRoZSAqKiRfdGFyZ2V0KiogdG9rZW4gaW4gdGhlIGRpbWVu
-c2lvbnMgc2VsZWN0IGlzIHVzZWQgdG8gcGFzcyBhIHBhcmFtZXRlciBnaXZl
-biBieSAgUHJvbWV0aGV1cyAoZm9yIGV4YW1wbGUgYSBcX19tZXRhIHRhZyB3
-aXRoIHNlcnZpY2UgZGlzY292ZXJ5KS4KCkZvciBleGFtcGxlIGEgc2NyYXBl
-IFVSTCBsb29rcyBsaWtlIHRoaXM6CgpgaHR0cDovL2xvY2FsaG9zdDo5MDQy
-L3NjcmFwZT90YXNrPWVjMl9jbG91ZHdhdGNoJnRhcmdldD1pLTAxMjM0NTY3
-ODkmcmVnaW9uPWV1LXdlc3QtMWAKCldpdGggdGhlIGV4YW1wbGUgY29uZmln
-dXJhdGlvbiBhYm92ZSwgdGhpcyBtZWFucyB0aGF0IHRoZSBDbG91ZFdhdGNo
-IGV4cG9ydGVyIHdpbGwgc2NyYXBlIHRoZSBgQ1BVVXRpbGl6YXRpb25gIGFu
-ZCB0aGUgYE5ldHdvcmtPdXRgIG1ldHJpY3Mgd2hlbiB0aGUgZGltZW5zaW9u
-IGBJbnN0YW5jZUlkYCB3aWxsIGJlIGVxdWFsIHRvIGBpLTAxMjM0NTY3ODlg
-IGluIHRoZSBgZXUtd2VzdC0xYCByZWdpb24gYWNjb3JkaW5nIHRvIHRoZSBj
-b25maWd1cmF0aW9uIG9mIHRoZSB0YXNrOiBgZWMyX2Nsb3Vkd2F0Y2hgLgoK
-IyMjIEhvdCByZWxvYWQgb2YgdGhlIGNvbmZpZ3VyYXRpb24KCkxldCdzIHNh
-eSB5b3UgY2FuJ3QgYWZmb3JkIHRvIGtpbGwgdGhlIHByb2Nlc3MgYW5kIHJl
-c3RhcnQgaXQgZm9yIGFueSByZWFzb24gYW5kIHlvdSBuZWVkIHRvIG1vZGlm
-eSB0aGUgY29uZmlndXJhdGlvbiBvbiB0aGUgZmx5LiBJdCdzIHBvc3NpYmxl
-ISBKdXN0IGNhbGwgdGhlIGAvcmVsb2FkYCBlbmRwb2ludC4KCgojIyBIb3cg
-dG8gY29uZmlndXJlIFByb21ldGhldXMKCmBgYHlhbWwKICAtIGpvYl9uYW1l
-OiAnYXdzX2JpbGxpbmcnCiAgICBtZXRyaWNzX3BhdGg6ICcvc2NyYXBlJwog
-ICAgcGFyYW1zOgogICAgICB0YXNrOiBbYmlsbGluZ10KICAgIHN0YXRpY19j
-b25maWdzOgogICAgICAtIHRhcmdldHM6IFsnbG9jYWxob3N0OjkwNDInXQoK
-ICAtIGpvYl9uYW1lOiAnZWMyX2Nsb3Vkd2F0Y2gnCiAgICBtZXRyaWNzX3Bh
-dGg6ICcvc2NyYXBlJwogICAgZWMyX3NkX2NvbmZpZ3M6CiAgICAgIC0gcmVn
-aW9uOiBldS13ZXN0LTEKICAgIHBhcmFtczoKICAgICAgcmVnaW9uOiBbZXUt
-d2VzdC0xXQogICAgcmVsYWJlbF9jb25maWdzOgogICAgICAtIHNvdXJjZV9s
-YWJlbHM6IFtfX21ldGFfZWMyX3RhZ19yb2xlXQogICAgICAgIHJlZ2V4OiB3
-ZWJhcHAKICAgICAgICBhY3Rpb246IGtlZXAKICAgICAgLSBzb3VyY2VfbGFi
-ZWxzOiBbam9iXQogICAgICAgIHRhcmdldF9sYWJlbDogX19wYXJhbV90YXNr
-CiAgICAgIC0gc291cmNlX2xhYmVsczogW19fbWV0YV9lYzJfaW5zdGFuY2Vf
-aWRdCiAgICAgICAgdGFyZ2V0X2xhYmVsOiBfX3BhcmFtX3RhcmdldAogICAg
-ICAtIHRhcmdldF9sYWJlbDogX19hZGRyZXNzX18KICAgICAgICByZXBsYWNl
-bWVudDogJ2xvY2FsaG9zdDo5MDQyJwoKICAtIGpvYl9uYW1lOiAndnBuX21v
-bicKICAgIG1ldHJpY3NfcGF0aDogJy9zY3JhcGUnCiAgICBwYXJhbXM6CiAg
-ICAgIHRhc2s6IFt2cG5fbW9uXQogICAgc3RhdGljX2NvbmZpZ3M6CiAgICAg
-IC0gdGFyZ2V0czogWyd2cG4tYWFiYmNjZGQnXQogICAgcmVsYWJlbF9jb25m
-aWdzOgogICAgICAtIHNvdXJjZV9sYWJlbHM6IFtfX2FkZHJlc3NfX10KICAg
-ICAgICB0YXJnZXRfbGFiZWw6IF9fcGFyYW1fdGFyZ2V0CiAgICAgIC0gdGFy
-Z2V0X2xhYmVsOiBfX2FkZHJlc3NfXwogICAgICAgIHJlcGxhY2VtZW50OiAn
-bG9jYWxob3N0OjkwNDInCmBgYAoKVGhhbmtzIHRvIFByb21ldGhldXMgcmVs
-YWJlbGxpbmcgZmVhdHVyZSwgaW4gdGhlIHNlY29uZCBqb2IgY29uZmlndXJh
-dGlvbiwgd2UgdGVsbCBpdCB0byB1c2UgdGhlIGBqb2JfbmFtZWAgYXMgdGhl
-IGB0YXNrYCBwYXJhbWV0ZXIgYW5kIHRvIHVzZSB0aGUgYF9fbWV0YV9lYzJf
-aW5zdGFuY2VfaWRgIGFzIHRoZSBgdGFyZ2V0YCBwYXJhbWV0ZXIuIFRoZSBy
-ZWdpb24gaXMgc3BlY2lmaWVkIGluIHRoZSBgcGFyYW1zYCBzZWN0aW9uLgoK
-VGhlIEJpbGxpbmcgZXhhbXBsZSBpcyB0aGVyZSB0byBkZW1vbnN0cmF0ZSB0
-aGUgbXVsdGktcmVnaW9uIGNhcGFiaWxpdHkgb2YgdGhpcyBleHBvcnRlciwg
-dGhlIGBkZWZhdWx0X3JlZ2lvbmAgcGFyYW1ldGVyIGlzIHNwZWNpZmllZCBp
-biB0aGUgZXhwb3J0ZXIncyBjb25maWd1cmF0aW9uLgoKKipOb3RlOioqIEl0
-IHdvdWxkIGFsc28gd29yayBpZiBubyBkZWZhdWx0X3JlZ2lvbiB3YXMgc3Bl
-Y2lmaWVkIGJ1dCBhIGBwYXJhbXNgIGJsb2NrIHdpdGggdGhlIGByZWdpb25g
-IHBhcmFtZXRlciB3YXMgc2V0IGluIHRoZSBQcm9tZXRoZXVzIGNvbmZpZ3Vy
-YXRpb24uCgojIyBFbmRwb2ludHMKCgp8IEVuZHBvaW50ICAgICAgfCBEZXNj
-cmlwdGlvbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8Cnwg
-LS0tLS0tLS0tLS0tLSB8IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
-LS0tLS0tLS0tLS0tLS0tIHwKfCBgL21ldHJpY3NgICAgIHwgR2F0aGVycyBt
-ZXRyaWNzIGZyb20gdGhlIENsb3VkV2F0Y2ggZXhwb3J0ZXIgaXRzZWxmIHN1
-Y2ggYXMgdGhlIHRvdGFsIG51bWJlciBvZiByZXF1ZXN0cyBtYWRlIHRvIHRo
-ZSBBV1MgQ2xvdWRXYXRjaCBBUEkuCnwgYC9zY3JhcGVgICAgICB8IEdhdGhl
-cnMgbWV0cmljcyBmcm9tIHRoZSBDbG91ZFdhdGNoIEFQSSBkZXBlbmRpbmcg
-b24gdGhlIHRhc2sgYW5kIChvcHRpb25hbGx5KSB0aGUgdGFyZ2V0IHBhc3Nl
-ZCBhcyBwYXJhbWV0ZXJzLgp8IGAvcmVsb2FkYCAgICAgfCBEb2VzIGEgbGl2
-ZSByZWxvYWQgb2YgdGhlIGNvbmZpZ3VyYXRpb24gd2l0aG91dCByZXN0YXJ0
-aW5nIHRoZSBwcm9jZXNzCgojIyBXaHkgdGhpcyByZW1ha2U/CgpXZSBmZWx0
-IGxlZnQgb3V0IHdoZW4gd2Ugd2FudGVkIHRvIG1vbml0b3IgaHVuZHJlZHMg
-b2YgbWFjaGluZXMgb24gQVdTIHRoYW5rcyB0byBDbG91ZFdhdGNoIHdoZW4g
-dXNpbmcgdGhlIG9yaWdpbmFsIGV4cG9ydGVyLiBXZSB3YW50ZWQgdG8gYmUg
-YWJsZSB0byB1c2UgdGhlIHNlcnZpY2UgRUMyIGRpc2NvdmVyeSBmdW5jdGlv
-bm5hbGl0eSBwcm92aWRlZCBieSBQcm9tZXRoZXVzIHRvIGR5bmFtaWNhbGx5
-IG1vbml0b3Igb3VyIGZsZWV0LgoKUmVnYXJkaW5nIG91ciByZXF1aXJlbWVu
-dHMsIGluc3RhbGxpbmcgSmF2YSBydW50aW1lIHdhcyBhbHNvIGEgYml0IG9m
-IGFuIGlzc3VlLCBzbyB3ZSBkZWNpZGVkIHRvIG1ha2UgaXQgKiJjb21wbGlh
-bnQiKiB3aXRoIHRoZSByZXN0IG9mIHRoZSBQcm9tZXRoZXVzIHByb2plY3Qg
-YnkgdXNpbmcgR29sYW5nLgoKIyMgVE9ETwoKVGhpcyBleHBvcnRlciBpcyBz
-dGlsbCBpbiBpdHMgZWFybHkgc3RhZ2VzISBJdCBzdGlsbCBsYWNrcyB+fnRo
-ZSBgZGltZW5zaW9uc19zZWxlY3RfcmVnZXhgIHBhcmFtZXRlcn5+IGFuZCB0
-aGUgRHluYW1vREIgc3BlY2lhbCB1c2UtY2FzZXMuIEFueSBoZWxwIGFuZC9v
-ciBjcml0aWNpc20gaXMgd2VsY29tZSEKCl9gZGltZW5zaW9uc19zZWxlY3Rf
-cmVnZXhgIGhhcyBiZWVuIGFkZGVkIFtoZXJlXShodHRwczovL2dpdGh1Yi5j
-b20vVGVjaG5vZnkvY2xvdWR3YXRjaF9leHBvcnRlci9jb21taXQvODgwZWE1
-MGYyMmYyMzQ5N2FiYWYwMmIxZDMwNmNjZGI3MWNjN2M1OCkKCiMjIEVuZCBO
-b3RlCgpUaGlzIGV4cG9ydGVyIGlzIGxhcmdlbHkgaW5zcGlyZWQgYnkgdGhl
-IFtvZmZpY2lhbCBDbG91ZFdhdGNoIEV4cG9ydGVyXShodHRwczovL2dpdGh1
-Yi5jb20vcHJvbWV0aGV1cy9jbG91ZHdhdGNoX2V4cG9ydGVyKSBhbmQgd2Un
-ZCBsaWtlIHRvIHRoYW5rIGFsbCB0aGUgY29udHJpYnV0b3JzIHdobyBwYXJ0
-aWNpcGF0ZWQgdG8gdGhlIG9yaWdpbmFsIHByb2plY3QuCgpUaGlzIHByb2pl
-Y3QgaXMgbGljZW5zZWQgdW5kZXIgdGhlIFtBcGFjaGUgMi4wIGxpY2Vuc2Vd
-KGh0dHBzOi8vZ2l0aHViLmNvbS9UZWNobm9meS9jbG91ZHdhdGNoX2V4cG9y
-dGVyL2Jsb2IvbWFzdGVyL0xJQ0VOU0UpLgo=
+# CloudWatch Exporter
+
+An [AWS CloudWatch](http://aws.amazon.com/cloudwatch/) exporter for [Prometheus](https://github.com/prometheus/prometheus) coded in Go, with multi-region and dynamic target support.
+
+
+## How to configure
+
+The configuration is in YAML and tries to stay in the same spirit as the official exporter.
+
+```yaml
+tasks:
+ - name: billing
+   default_region: us-east-1
+   metrics:
+    - aws_namespace: "AWS/Billing"
+      aws_dimensions: [Currency]
+      aws_dimensions_select:
+        Currency: [USD]
+      aws_metric_name: EstimatedCharges
+      aws_statistics: [Maximum]
+      range_seconds: 86400
+
+ - name: ec2_cloudwatch
+   metrics:
+    - aws_namespace: "AWS/EC2"
+      aws_dimensions: [InstanceId]
+      aws_dimensions_select:
+        InstanceId: [$_target]
+      aws_metric_name: CPUUtilization
+      aws_statistics: [Average]
+
+    - aws_namespace: "AWS/EC2"
+      aws_dimensions: [InstanceId]
+      aws_dimensions_select:
+        InstanceId: [$_target]
+      aws_metric_name: NetworkOut
+      aws_statistics: [Average]
+
+  - name: vpn_mon
+    metrics:
+     - aws_namespace: "AWS/VPN"
+       aws_dimensions: [VpnId]
+       aws_dimensions_select:
+         VpnId: [$_target]
+       aws_metric_name: TunnelState
+       aws_statistics: [Average]
+       range_seconds: 3600
+```
+
+
+### What are "Tasks" and "$_target"?
+
+Tasks are used to describe a CloudWatch scrape that can be reused on a whole set of instances and even cross-region.
+
+The **$_target** token in the dimensions select is used to pass a parameter given by  Prometheus (for example a \__meta tag with service discovery).
+
+For example a scrape URL looks like this:
+
+`http://localhost:9042/scrape?task=ec2_cloudwatch&target=i-0123456789&region=eu-west-1`
+
+With the example configuration above, this means that the CloudWatch exporter will scrape the `CPUUtilization` and the `NetworkOut` metrics when the dimension `InstanceId` will be equal to `i-0123456789` in the `eu-west-1` region according to the configuration of the task: `ec2_cloudwatch`.
+
+### Hot reload of the configuration
+
+Let's say you can't afford to kill the process and restart it for any reason and you need to modify the configuration on the fly. It's possible! Just call the `/reload` endpoint.
+
+
+## How to configure Prometheus
+
+```yaml
+  - job_name: 'aws_billing'
+    metrics_path: '/scrape'
+    params:
+      task: [billing]
+    static_configs:
+      - targets: ['localhost:9042']
+
+  - job_name: 'ec2_cloudwatch'
+    metrics_path: '/scrape'
+    ec2_sd_configs:
+      - region: eu-west-1
+    params:
+      region: [eu-west-1]
+    relabel_configs:
+      - source_labels: [__meta_ec2_tag_role]
+        regex: webapp
+        action: keep
+      - source_labels: [job]
+        target_label: __param_task
+      - source_labels: [__meta_ec2_instance_id]
+        target_label: __param_target
+      - target_label: __address__
+        replacement: 'localhost:9042'
+
+  - job_name: 'vpn_mon'
+    metrics_path: '/scrape'
+    params:
+      task: [vpn_mon]
+    static_configs:
+      - targets: ['vpn-aabbccdd']
+    relabel_configs:
+      - source_labels: [__address__]
+        target_label: __param_target
+      - target_label: __address__
+        replacement: 'localhost:9042'
+```
+
+Thanks to Prometheus relabelling feature, in the second job configuration, we tell it to use the `job_name` as the `task` parameter and to use the `__meta_ec2_instance_id` as the `target` parameter. The region is specified in the `params` section.
+
+The Billing example is there to demonstrate the multi-region capability of this exporter, the `default_region` parameter is specified in the exporter's configuration.
+
+**Note:** It would also work if no default_region was specified but a `params` block with the `region` parameter was set in the Prometheus configuration.
+
+## Endpoints
+
+
+| Endpoint      | Description                                  |
+| ------------- | -------------------------------------------- |
+| `/metrics`    | Gathers metrics from the CloudWatch exporter itself such as the total number of requests made to the AWS CloudWatch API.
+| `/scrape`     | Gathers metrics from the CloudWatch API depending on the task and (optionally) the target passed as parameters.
+| `/reload`     | Does a live reload of the configuration without restarting the process
+
+## Why this remake?
+
+We felt left out when we wanted to monitor hundreds of machines on AWS thanks to CloudWatch when using the original exporter. We wanted to be able to use the service EC2 discovery functionnality provided by Prometheus to dynamically monitor our fleet.
+
+Regarding our requirements, installing Java runtime was also a bit of an issue, so we decided to make it *"compliant"* with the rest of the Prometheus project by using Golang.
+
+## TODO
+
+This exporter is still in its early stages! It still lacks ~~the `dimensions_select_regex` parameter~~ and the DynamoDB special use-cases. Any help and/or criticism is welcome!
+
+_`dimensions_select_regex` has been added [here](https://github.com/Technofy/cloudwatch_exporter/commit/880ea50f22f23497abaf02b1d306ccdb71cc7c58)
+
+## End Note
+
+This exporter is largely inspired by the [official CloudWatch Exporter](https://github.com/prometheus/cloudwatch_exporter) and we'd like to thank all the contributors who participated to the original project.
+
+This project is licensed under the [Apache 2.0 license](https://github.com/Technofy/cloudwatch_exporter/blob/master/LICENSE).
