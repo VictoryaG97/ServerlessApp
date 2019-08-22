@@ -1,388 +1,490 @@
-IyBhd3MtbnVrZQoKWyFbQnVpbGQgU3RhdHVzXShodHRwczovL3RyYXZpcy1j
-aS5vcmcvcmVidXktZGUvYXdzLW51a2Uuc3ZnP2JyYW5jaD1tYXN0ZXIpXSho
-dHRwczovL3RyYXZpcy1jaS5vcmcvcmVidXktZGUvYXdzLW51a2UpClshW2xp
-Y2Vuc2VdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vZ2l0aHViL2xpY2Vuc2Uv
-cmVidXktZGUvYXdzLW51a2Uuc3ZnKV0oaHR0cHM6Ly9naXRodWIuY29tL3Jl
-YnV5LWRlL2F3cy1udWtlL2Jsb2IvbWFzdGVyL0xJQ0VOU0UpClshW0dpdEh1
-YiByZWxlYXNlXShodHRwczovL2ltZy5zaGllbGRzLmlvL2dpdGh1Yi9yZWxl
-YXNlL3JlYnV5LWRlL2F3cy1udWtlLnN2ZyldKGh0dHBzOi8vZ2l0aHViLmNv
-bS9yZWJ1eS1kZS9hd3MtbnVrZS9yZWxlYXNlcykKClJlbW92ZSBhbGwgcmVz
-b3VyY2VzIGZyb20gYW4gQVdTIGFjY291bnQuCgo+ICoqRGV2ZWxvcG1lbnQg
-U3RhdHVzKiogKmF3cy1udWtlKiBpcyBzdGFibGUsIGJ1dCBpdCBpcyBsaWtl
-bHkgdGhhdCBub3QgYWxsIEFXUwpyZXNvdXJjZXMgYXJlIGNvdmVyZWQgYnkg
-aXQuIEJlIGVuY291cmFnZWQgdG8gYWRkIG1pc3NpbmcgcmVzb3VyY2VzIGFu
-ZCBjcmVhdGUKYSBQdWxsIFJlcXVlc3Qgb3IgdG8gY3JlYXRlIGFuIFtJc3N1
-ZV0oaHR0cHM6Ly9naXRodWIuY29tL3JlYnV5LWRlL2F3cy1udWtlL2lzc3Vl
-cy9uZXcpLgoKIyMgQ2F1dGlvbiEKCkJlIGF3YXJlIHRoYXQgKmF3cy1udWtl
-KiBpcyBhIHZlcnkgZGVzdHJ1Y3RpdmUgdG9vbCwgaGVuY2UgeW91IGhhdmUg
-dG8gYmUgdmVyeQpjYXJlZnVsIHdoaWxlIHVzaW5nIGl0LiBPdGhlcndpc2Ug
-eW91IG1pZ2h0IGRlbGV0ZSBwcm9kdWN0aW9uIGRhdGEuCgoqKldlIHN0cm9u
-Z2x5IGFkdmljZSB5b3UgdG8gbm90IHJ1biB0aGlzIGFwcGxpY2F0aW9uIG9u
-IGFueSBBV1MgYWNjb3VudCwgd2hlcmUKeW91IGNhbm5vdCBhZmZvcmQgdG8g
-bG9zZSBhbGwgcmVzb3VyY2VzLioqCgpUbyByZWR1Y2UgdGhlIGJsYXN0IHJh
-ZGl1cyBvZiBhY2NpZGVudHMsIHRoZXJlIGFyZSBzb21lIHNhZmV0eSBwcmVj
-YXV0aW9uczoKCjEuIEJ5IGRlZmF1bHQgKmF3cy1udWtlKiBvbmx5IGxpc3Rz
-IGFsbCBudWtlYWJsZSByZXNvdXJjZXMuIFlvdSBuZWVkIHRvIGFkZAogICBg
-LS1uby1kcnktcnVuYCB0byBhY3R1YWxseSBkZWxldGUgcmVzb3VyY2VzLgoy
-LiAqYXdzLW51a2UqIGFza3MgeW91IHR3aWNlIHRvIGNvbmZpcm0gdGhlIGRl
-bGV0aW9uIGJ5IGVudGVyaW5nIHRoZSBhY2NvdW50CiAgIGFsaWFzLiBUaGUg
-Zmlyc3QgdGltZSBpcyBkaXJlY3RseSBhZnRlciB0aGUgc3RhcnQgYW5kIHRo
-ZSBzZWNvbmQgdGltZSBhZnRlcgogICBsaXN0aW5nIGFsbCBudWtlYWJsZSBy
-ZXNvdXJjZXMuCjMuIFRvIGF2b2lkIGp1c3QgZGlzcGxheWluZyBhIGFjY291
-bnQgSUQsIHdoaWNoIG1pZ2h0IGdsYWRseSBiZSBpZ25vcmVkIGJ5CiAgIGh1
-bWFucywgaXQgaXMgcmVxdWlyZWQgdG8gYWN0dWFsbHkgc2V0IGFuIFtBY2Nv
-dW50CiAgIEFsaWFzXShodHRwczovL2RvY3MuYXdzLmFtYXpvbi5jb20vSUFN
-L2xhdGVzdC9Vc2VyR3VpZGUvY29uc29sZV9hY2NvdW50LWFsaWFzLmh0bWwp
-CiAgIGZvciB5b3VyIGFjY291bnQuIE90aGVyd2lzZSAqYXdzLW51a2UqIHdp
-bGwgYWJvcnQuCjQuIFRoZSBBY2NvdW50IEFsaWFzIG11c3Qgbm90IGNvbnRh
-aW4gdGhlIHN0cmluZyBgcHJvZGAuIFRoaXMgc3RyaW5nIGlzCiAgIGhhcmRj
-b2RlZCBhbmQgaXQgaXMgcmVjb21tZW5kZWQgdG8gYWRkIGl0IHRvIGV2ZXJ5
-IGFjdHVhbCBwcm9kdWN0aW9uIGFjY291bnQKICAgKGVnIGBteWNvbXBhbnkt
-cHJvZHVjdGlvbi1lY3JgKS4KNS4gVGhlIGNvbmZpZyBmaWxlIGNvbnRhaW5z
-IGEgYmxhY2tsaXN0IGZpZWxkLiBJZiB0aGUgQWNjb3VudCBJRCBvZiB0aGUg
-YWNjb3VudAogICB5b3Ugd2FudCB0byBudWtlIGlzIHBhcnQgb2YgdGhpcyBi
-bGFja2xpc3QsICphd3MtbnVrZSogd2lsbCBhYm9ydC4gSXQgaXMKICAgcmVj
-b21tZW5kZWQsIHRoYXQgeW91IGFkZCBldmVyeSBwcm9kdWN0aW9uIGFjY291
-bnQgdG8gdGhpcyBibGFja2xpc3QuCjYuIFRvIGVuc3VyZSB5b3UgZG9uJ3Qg
-anVzdCBpZ25vcmUgdGhlIGJsYWNrbGlzdGluZyBmZWF0dXJlLCB0aGUgYmxh
-Y2tsaXN0IG11c3QKICAgY29udGFpbiBhdCBsZWFzdCBvbmUgQWNjb3VudCBJ
-RC4KNy4gVGhlIGNvbmZpZyBmaWxlIGNvbnRhaW5zIGFjY291bnQgc3BlY2lm
-aWMgc2V0dGluZ3MgKGVnLiBmaWx0ZXJzKS4gVGhlCiAgIGFjY291bnQgeW91
-IHdhbnQgdG8gbnVrZSBtdXN0IGJlIGV4cGxpY2l0bHkgbGlzdGVkIHRoZXJl
-Lgo4LiBUbyBlbnN1cmUgdG8gbm90IGFjY2lkZW50YWxseSBkZWxldGUgYSBy
-YW5kb20gYWNjb3VudCwgaXQgaXMgcmVxdWlyZWQgdG8KICAgc3BlY2lmeSBh
-IGNvbmZpZyBmaWxlLiBJdCBpcyByZWNvbW1lbmRlZCB0byBoYXZlIG9ubHkg
-YSBzaW5nbGUgY29uZmlnIGZpbGUKICAgYW5kIGFkZCBpdCB0byBhIGNlbnRy
-YWwgcmVwb3NpdG9yeS4gVGhpcyB3YXkgdGhlIGFjY291bnQgYmxhY2tsaXN0
-IGlzIHdheQogICBlYXNpZXIgdG8gbWFuYWdlIGFuZCBrZWVwIHVwIHRvIGRh
-dGUuCgpGZWVsIGZyZWUgdG8gY3JlYXRlIGFuIGlzc3VlLCBpZiB5b3UgaGF2
-ZSBhbnkgaWRlYXMgdG8gaW1wcm92ZSB0aGUgc2FmZXR5CnByb2NlZHVyZXMu
-CgoKIyMgVXNlIENhc2VzCgoqIFdlIGFyZSB0ZXN0aW5nIG91ciBbVGVycmFm
-b3JtXShodHRwczovL3d3dy50ZXJyYWZvcm0uaW8vKSBjb2RlIHdpdGggSmVu
-a2lucy4KICBTb21ldGltZXMgYSBUZXJyYWZvcm0gcnVuIGZhaWxzIGR1cmlu
-ZyBkZXZlbG9wbWVudCBhbmQgbWVzc2VzIHVwIHRoZSBhY2NvdW50LgogIFdp
-dGggKmF3cy1udWtlKiB3ZSBjYW4gc2ltcGx5IGNsZWFuIHVwIHRoZSBmYWls
-ZWQgYWNjb3VudCBzbyBpdCBjYW4gYmUgcmV1c2VkCiAgZm9yIHRoZSBuZXh0
-IGJ1aWxkLgoqIE91ciBwbGF0Zm9ybSBkZXZlbG9wZXJzIGhhdmUgdGhlaXIg
-b3duIEFXUyBBY2NvdW50cyB3aGVyZSB0aGV5IGNhbiBjcmVhdGUKICB0aGVp
-ciBvd24gS3ViZXJuZXRlcyBjbHVzdGVycyBmb3IgdGVzdGluZyBwdXJwb3Nl
-cy4gV2l0aCAqYXdzLW51a2UqIGl0IGlzCiAgdmVyeSBlYXN5IHRvIGNsZWFu
-IHVwIHRoZXNlIGFjY291bnQgYXQgdGhlIGVuZCBvZiB0aGUgZGF5IGFuZCBr
-ZWVwIHRoZSBjb3N0cwogIGxvdy4KCgojIyBVc2FnZQoKQXQgZmlyc3QgeW91
-IG5lZWQgdG8gY3JlYXRlIGEgY29uZmlnIGZpbGUgZm9yICphd3MtbnVrZSou
-IFRoaXMgaXMgYSBtaW5pbWFsIG9uZToKCmBgYHlhbWwKcmVnaW9uczoKLSBl
-dS13ZXN0LTEKCmFjY291bnQtYmxhY2tsaXN0OgotICI5OTk5OTk5OTk5OTki
-ICMgcHJvZHVjdGlvbgoKYWNjb3VudHM6CiAgIjAwMDAwMDAwMDAwMCI6IHt9
-ICMgYXdzLW51a2UtZXhhbXBsZQpgYGAKCldpdGggdGhpcyBjb25maWcgd2Ug
-Y2FuIHJ1biAqYXdzLW51a2UqOgoKYGBgCiQgYXdzLW51a2UgLWMgY29uZmln
-L251a2UtY29uZmlnLnltbCAtLXByb2ZpbGUgYXdzLW51a2UtZXhhbXBsZQph
-d3MtbnVrZSB2ZXJzaW9uIHYxLjAuMzkuZ2MyZjMxOGYgLSBGcmkgSnVsIDI4
-IDE2OjI2OjQxIENFU1QgMjAxNyAtIGMyZjMxOGYzN2I3ZDJkZWMwZTY0NmRh
-M2Q0ZDA1YWI1Mjk2ZDViY2UKCkRvIHlvdSByZWFsbHkgd2FudCB0byBudWtl
-IHRoZSBhY2NvdW50IHdpdGggdGhlIElEIDAwMDAwMDAwMDAwMCBhbmQgdGhl
-IGFsaWFzICdhd3MtbnVrZS1leGFtcGxlJz8KRG8geW91IHdhbnQgdG8gY29u
-dGludWU/IEVudGVyIGFjY291bnQgYWxpYXMgdG8gY29udGludWUuCj4gYXdz
-LW51a2UtZXhhbXBsZQoKZXUtd2VzdC0xIC0gRUMyREhDUE9wdGlvbiAtICdk
-b3B0LWJmMmVjM2Q4JyAtIHdvdWxkIHJlbW92ZQpldS13ZXN0LTEgLSBFQzJJ
-bnN0YW5jZSAtICdpLTAxYjQ4OTQ1N2E2MDI5OGRkJyAtIHdvdWxkIHJlbW92
-ZQpldS13ZXN0LTEgLSBFQzJLZXlQYWlyIC0gJ3Rlc3QnIC0gd291bGQgcmVt
-b3ZlCmV1LXdlc3QtMSAtIEVDMk5ldHdvcmtBQ0wgLSAnYWNsLTY0ODJhMzAz
-JyAtIGNhbm5vdCBkZWxldGUgZGVmYXVsdCBWUEMKZXUtd2VzdC0xIC0gRUMy
-Um91dGVUYWJsZSAtICdydGItZmZlOTFlOTknIC0gd291bGQgcmVtb3ZlCmV1
-LXdlc3QtMSAtIEVDMlNlY3VyaXR5R3JvdXAgLSAnc2ctMjIwZTk0NWEnIC0g
-Y2Fubm90IGRlbGV0ZSBncm91cCAnZGVmYXVsdCcKZXUtd2VzdC0xIC0gRUMy
-U2VjdXJpdHlHcm91cCAtICdzZy1mMjBmOTU4YScgLSB3b3VsZCByZW1vdmUK
-ZXUtd2VzdC0xIC0gRUMyU3VibmV0IC0gJ3N1Ym5ldC0xNTRkODQ0ZScgLSB3
-b3VsZCByZW1vdmUKZXUtd2VzdC0xIC0gRUMyVm9sdW1lIC0gJ3ZvbC0wZGRm
-YjE1NDYxYTAwYzNlMicgLSB3b3VsZCByZW1vdmUKZXUtd2VzdC0xIC0gRUMy
-VlBDIC0gJ3ZwYy1jNjE1OWZhMScgLSB3b3VsZCByZW1vdmUKZXUtd2VzdC0x
-IC0gSUFNVXNlckFjY2Vzc0tleSAtICdteS11c2VyIC0+IEFCQ0RFRkdISUpL
-TE1OT1BRUlNUJyAtIHdvdWxkIHJlbW92ZQpldS13ZXN0LTEgLSBJQU1Vc2Vy
-UG9saWN5QXR0YWNobWVudCAtICdteS11c2VyIC0+IEFkbWluaXN0cmF0b3JB
-Y2Nlc3MnIC0gW1VzZXJOYW1lOiAibXktdXNlciIsIFBvbGljeUFybjogImFy
-bjphd3M6aWFtOjphd3M6cG9saWN5L0FkbWluaXN0cmF0b3JBY2Nlc3MiLCBQ
-b2xpY3lOYW1lOiAiQWRtaW5pc3RyYXRvckFjY2VzcyJdIC0gd291bGQgcmVt
-b3ZlCmV1LXdlc3QtMSAtIElBTVVzZXIgLSAnbXktdXNlcicgLSB3b3VsZCBy
-ZW1vdmUKU2NhbiBjb21wbGV0ZTogMTMgdG90YWwsIDExIG51a2VhYmxlLCAy
-IGZpbHRlcmVkLgoKV291bGQgZGVsZXRlIHRoZXNlIHJlc291cmNlcy4gUHJv
-dmlkZSAtLW5vLWRyeS1ydW4gdG8gYWN0dWFsbHkgZGVzdHJveSByZXNvdXJj
-ZXMuCmBgYAoKQXMgd2Ugc2VlLCAqYXdzLW51a2UqIG9ubHkgbGlzdHMgYWxs
-IGZvdW5kIHJlc291cmNlcyBhbmQgZXhpdHMuIFRoaXMgaXMgYmVjYXVzZQp0
-aGUgYC0tbm8tZHJ5LXJ1bmAgZmxhZyBpcyBtaXNzaW5nLiBBbHNvIGl0IHdh
-bnRzIHRvIGRlbGV0ZSB0aGUKYWRtaW5pc3RyYXRvci4gV2UgZG9uJ3Qgd2Fu
-dCB0byBkbyB0aGlzLCBiZWNhdXNlIHdlIHVzZSB0aGlzIHVzZXIgdG8gYWNj
-ZXNzCm91ciBhY2NvdW50LiBUaGVyZWZvcmUgd2UgaGF2ZSB0byBleHRlbmQg
-dGhlIGNvbmZpZyBzbyBpdCBpZ25vcmVzIHRoaXMgdXNlcjoKCgpgYGB5YW1s
-CnJlZ2lvbnM6Ci0gZXUtd2VzdC0xCgphY2NvdW50LWJsYWNrbGlzdDoKLSAi
-OTk5OTk5OTk5OTk5IiAjIHByb2R1Y3Rpb24KCmFjY291bnRzOgogICIwMDAw
-MDAwMDAwMDAiOiAjIGF3cy1udWtlLWV4YW1wbGUKICAgIGZpbHRlcnM6CiAg
-ICAgIElBTVVzZXI6CiAgICAgIC0gIm15LXVzZXIiCiAgICAgIElBTVVzZXJQ
-b2xpY3lBdHRhY2htZW50OgogICAgICAtICJteS11c2VyIC0+IEFkbWluaXN0
-cmF0b3JBY2Nlc3MiCiAgICAgIElBTVVzZXJBY2Nlc3NLZXk6CiAgICAgIC0g
-Im15LXVzZXIgLT4gQUJDREVGR0hJSktMTU5PUFFSU1QiCmBgYAoKYGBgCiQg
-YXdzLW51a2UgLWMgY29uZmlnL251a2UtY29uZmlnLnltbCAtLXByb2ZpbGUg
-YXdzLW51a2UtZXhhbXBsZSAtLW5vLWRyeS1ydW4KYXdzLW51a2UgdmVyc2lv
-biB2MS4wLjM5LmdjMmYzMThmIC0gRnJpIEp1bCAyOCAxNjoyNjo0MSBDRVNU
-IDIwMTcgLSBjMmYzMThmMzdiN2QyZGVjMGU2NDZkYTNkNGQwNWFiNTI5NmQ1
-YmNlCgpEbyB5b3UgcmVhbGx5IHdhbnQgdG8gbnVrZSB0aGUgYWNjb3VudCB3
-aXRoIHRoZSBJRCAwMDAwMDAwMDAwMDAgYW5kIHRoZSBhbGlhcyAnYXdzLW51
-a2UtZXhhbXBsZSc/CkRvIHlvdSB3YW50IHRvIGNvbnRpbnVlPyBFbnRlciBh
-Y2NvdW50IGFsaWFzIHRvIGNvbnRpbnVlLgo+IGF3cy1udWtlLWV4YW1wbGUK
-CmV1LXdlc3QtMSAtIEVDMkRIQ1BPcHRpb24gLSAnZG9wdC1iZjJlYzNkOCcg
-LSB3b3VsZCByZW1vdmUKZXUtd2VzdC0xIC0gRUMySW5zdGFuY2UgLSAnaS0w
-MWI0ODk0NTdhNjAyOThkZCcgLSB3b3VsZCByZW1vdmUKZXUtd2VzdC0xIC0g
-RUMyS2V5UGFpciAtICd0ZXN0JyAtIHdvdWxkIHJlbW92ZQpldS13ZXN0LTEg
-LSBFQzJOZXR3b3JrQUNMIC0gJ2FjbC02NDgyYTMwMycgLSBjYW5ub3QgZGVs
-ZXRlIGRlZmF1bHQgVlBDCmV1LXdlc3QtMSAtIEVDMlJvdXRlVGFibGUgLSAn
-cnRiLWZmZTkxZTk5JyAtIHdvdWxkIHJlbW92ZQpldS13ZXN0LTEgLSBFQzJT
-ZWN1cml0eUdyb3VwIC0gJ3NnLTIyMGU5NDVhJyAtIGNhbm5vdCBkZWxldGUg
-Z3JvdXAgJ2RlZmF1bHQnCmV1LXdlc3QtMSAtIEVDMlNlY3VyaXR5R3JvdXAg
-LSAnc2ctZjIwZjk1OGEnIC0gd291bGQgcmVtb3ZlCmV1LXdlc3QtMSAtIEVD
-MlN1Ym5ldCAtICdzdWJuZXQtMTU0ZDg0NGUnIC0gd291bGQgcmVtb3ZlCmV1
-LXdlc3QtMSAtIEVDMlZvbHVtZSAtICd2b2wtMGRkZmIxNTQ2MWEwMGMzZTIn
-IC0gd291bGQgcmVtb3ZlCmV1LXdlc3QtMSAtIEVDMlZQQyAtICd2cGMtYzYx
-NTlmYTEnIC0gd291bGQgcmVtb3ZlCmV1LXdlc3QtMSAtIElBTVVzZXJBY2Nl
-c3NLZXkgLSAnbXktdXNlciAtPiBBQkNERUZHSElKS0xNTk9QUVJTVCcgLSBm
-aWx0ZXJlZCBieSBjb25maWcKZXUtd2VzdC0xIC0gSUFNVXNlclBvbGljeUF0
-dGFjaG1lbnQgLSAnbXktdXNlciAtPiBBZG1pbmlzdHJhdG9yQWNjZXNzJyAt
-IFtVc2VyTmFtZTogIm15LXVzZXIiLCBQb2xpY3lBcm46ICJhcm46YXdzOmlh
-bTo6YXdzOnBvbGljeS9BZG1pbmlzdHJhdG9yQWNjZXNzIiwgUG9saWN5TmFt
-ZTogIkFkbWluaXN0cmF0b3JBY2Nlc3MiXSAtIHdvdWxkIHJlbW92ZQpldS13
-ZXN0LTEgLSBJQU1Vc2VyIC0gJ215LXVzZXInIC0gZmlsdGVyZWQgYnkgY29u
-ZmlnClNjYW4gY29tcGxldGU6IDEzIHRvdGFsLCA4IG51a2VhYmxlLCA1IGZp
-bHRlcmVkLgoKRG8geW91IHJlYWxseSB3YW50IHRvIG51a2UgdGhlc2UgcmVz
-b3VyY2VzIG9uIHRoZSBhY2NvdW50IHdpdGggdGhlIElEIDAwMDAwMDAwMDAw
-MCBhbmQgdGhlIGFsaWFzICdhd3MtbnVrZS1leGFtcGxlJz8KRG8geW91IHdh
-bnQgdG8gY29udGludWU/IEVudGVyIGFjY291bnQgYWxpYXMgdG8gY29udGlu
-dWUuCj4gYXdzLW51a2UtZXhhbXBsZQoKZXUtd2VzdC0xIC0gRUMyREhDUE9w
-dGlvbiAtICdkb3B0LWJmMmVjM2Q4JyAtIGZhaWxlZApldS13ZXN0LTEgLSBF
-QzJJbnN0YW5jZSAtICdpLTAxYjQ4OTQ1N2E2MDI5OGRkJyAtIHRyaWdnZXJl
-ZCByZW1vdmUKZXUtd2VzdC0xIC0gRUMyS2V5UGFpciAtICd0ZXN0JyAtIHRy
-aWdnZXJlZCByZW1vdmUKZXUtd2VzdC0xIC0gRUMyUm91dGVUYWJsZSAtICdy
-dGItZmZlOTFlOTknIC0gZmFpbGVkCmV1LXdlc3QtMSAtIEVDMlNlY3VyaXR5
-R3JvdXAgLSAnc2ctZjIwZjk1OGEnIC0gZmFpbGVkCmV1LXdlc3QtMSAtIEVD
-MlN1Ym5ldCAtICdzdWJuZXQtMTU0ZDg0NGUnIC0gZmFpbGVkCmV1LXdlc3Qt
-MSAtIEVDMlZvbHVtZSAtICd2b2wtMGRkZmIxNTQ2MWEwMGMzZTInIC0gZmFp
-bGVkCmV1LXdlc3QtMSAtIEVDMlZQQyAtICd2cGMtYzYxNTlmYTEnIC0gZmFp
-bGVkCmV1LXdlc3QtMSAtIFMzT2JqZWN0IC0gJ3MzOi8vcmVidXktdGVycmFm
-b3JtLXN0YXRlLTEzODc1ODYzNzEyMC9ydW4tdGVycmFmb3JtLmxvY2snIC0g
-dHJpZ2dlcmVkIHJlbW92ZQoKUmVtb3ZhbCByZXF1ZXN0ZWQ6IDIgd2FpdGlu
-ZywgNiBmYWlsZWQsIDUgc2tpcHBlZCwgMCBmaW5pc2hlZAoKZXUtd2VzdC0x
-IC0gRUMyREhDUE9wdGlvbiAtICdkb3B0LWJmMmVjM2Q4JyAtIGZhaWxlZApl
-dS13ZXN0LTEgLSBFQzJJbnN0YW5jZSAtICdpLTAxYjQ4OTQ1N2E2MDI5OGRk
-JyAtIHdhaXRpbmcKZXUtd2VzdC0xIC0gRUMyS2V5UGFpciAtICd0ZXN0JyAt
-IHJlbW92ZWQKZXUtd2VzdC0xIC0gRUMyUm91dGVUYWJsZSAtICdydGItZmZl
-OTFlOTknIC0gZmFpbGVkCmV1LXdlc3QtMSAtIEVDMlNlY3VyaXR5R3JvdXAg
-LSAnc2ctZjIwZjk1OGEnIC0gZmFpbGVkCmV1LXdlc3QtMSAtIEVDMlN1Ym5l
-dCAtICdzdWJuZXQtMTU0ZDg0NGUnIC0gZmFpbGVkCmV1LXdlc3QtMSAtIEVD
-MlZvbHVtZSAtICd2b2wtMGRkZmIxNTQ2MWEwMGMzZTInIC0gZmFpbGVkCmV1
-LXdlc3QtMSAtIEVDMlZQQyAtICd2cGMtYzYxNTlmYTEnIC0gZmFpbGVkCgpS
-ZW1vdmFsIHJlcXVlc3RlZDogMSB3YWl0aW5nLCA2IGZhaWxlZCwgNSBza2lw
-cGVkLCAxIGZpbmlzaGVkCgotLS0gdHJ1bmNhdGluZyBsb25nIG91dHB1dCAt
-LS0KYGBgCgpBcyB5b3Ugc2VlICphd3MtbnVrZSogbm93IHRyaWVzIHRvIGRl
-bGV0ZSBhbGwgcmVzb3VyY2VzIHdoaWNoIGFyZW4ndCBmaWx0ZXJlZCwKd2l0
-aG91dCBjYXJpbmcgYWJvdXQgdGhlIGRlcGVuZGVuY2llcyBiZXR3ZWVuIHRo
-ZW0uIFRoaXMgcmVzdWx0cyBpbiBBUEkgZXJyb3JzCndoaWNoIGNhbiBiZSBp
-Z25vcmVkLiBUaGVzZSBlcnJvcnMgYXJlIHNob3duIGF0IHRoZSBlbmQgb2Yg
-dGhlICphd3MtbnVrZSogcnVuLAppZiB0aGV5IGtlZXAgdG8gYXBwZWFyLgoK
-KmF3cy1udWtlKiByZXRyaWVzIGRlbGV0aW5nIGFsbCByZXNvdXJjZXMgdW50
-aWwgYWxsIHNwZWNpZmllZCBvbmVzIGFyZSBkZWxldGVkCm9yIHVudGlsIHRo
-ZXJlIGFyZSBvbmx5IHJlc291cmNlcyB3aXRoIGVycm9ycyBsZWZ0LgoKIyMj
-IEFXUyBDcmVkZW50aWFscwoKVGhlcmUgYXJlIHR3byB3YXlzIHRvIGF1dGhl
-bnRpY2F0ZSAqYXdzLW51a2UqLiBUaGVyZSBhcmUgc3RhdGljIGNyZWRlbnRp
-YWxzIGFuZApwcm9maWxlcy4gVGhlIGxhdGVyIG9uZSBjYW4gYmUgY29uZmln
-dXJlZCBpbiB0aGUgc2hhcmVkIGNyZWRlbnRpYWxzIGZpbGUgKGllCmB+Ly5h
-d3MvY3JlZGVudGlhbHNgKSBvciB0aGUgc2hhcmVkIGNvbmZpZyBmaWxlIChp
-ZSBgfi8uYXdzL2NvbmZpZ2ApLgoKVG8gdXNlICpzdGF0aWMgY3JlZGVudGlh
-bHMqIHRoZSBjb21tYW5kIGxpbmUgZmxhZ3MgYC0tYWNjZXNzLWtleS1pZGAg
-YW5kCmAtLXNlY3JldC1hY2Nlc3Mta2V5YCBhcmUgcmVxdWlyZWQuIFRoZSBm
-bGFnIGAtLXNlc3Npb24tdG9rZW5gIGlzIG9ubHkgcmVxdWlyZWQKZm9yIHRl
-bXBvcmFyeSBzZXNzaW9ucy4KClRvIHVzZSAqc2hhcmVkIHByb2ZpbGVzKiB0
-aGUgY29tbWFuZCBsaW5lIGZsYWcgYC0tcHJvZmlsZWAgaXMgcmVxdWlyZWQu
-IFRoZQpwcm9maWxlIG11c3QgYmUgZWl0aGVyIGRlZmluZWQgd2l0aCBzdGF0
-aWMgY3JlZGVudGlhbHMgaW4gdGhlIFtzaGFyZWQKY3JlZGVudGlhbApmaWxl
-XShodHRwczovL2RvY3MuYXdzLmFtYXpvbi5jb20vY2xpL2xhdGVzdC91c2Vy
-Z3VpZGUvY2xpLW11bHRpcGxlLXByb2ZpbGVzLmh0bWwpCm9yIGluIFtzaGFy
-ZWQgY29uZmlnCmZpbGVdKGh0dHBzOi8vZG9jcy5hd3MuYW1hem9uLmNvbS9j
-bGkvbGF0ZXN0L3VzZXJndWlkZS9jbGktcm9sZXMuaHRtbCkgd2l0aCBhbgph
-c3N1bWluZyByb2xlLgoKIyMjIFNwZWNpZnlpbmcgUmVzb3VyY2UgVHlwZXMg
-dG8gRGVsZXRlCgoqYXdzLW51a2UqIGRlbGV0ZXMgYSBsb3Qgb2YgcmVzb3Vy
-Y2VzIGFuZCB0aGVyZSBtaWdodCBiZSBhZGRlZCBtb3JlIGF0IGFueQpyZWxl
-YXNlLiBFdmVudHVhbGx5LCBldmVyeSByZXNvdXJjZXMgc2hvdWxkIGdldCBk
-ZWxldGVkLiBZb3UgbWlnaHQgd2FudCB0bwpyZXN0cmljdCB3aGljaCByZXNv
-dXJjZXMgdG8gZGVsZXRlLiBUaGVyZSBhcmUgbXVsdGlwbGUgd2F5cyB0byBj
-b25maWd1cmUgdGhpcy4KCk9uZSB3YXkgYXJlIGZpbHRlcnMsIHdoaWNoIGFs
-cmVhZHkgZ290IG1lbnRpb25lZC4gVGhpcyByZXF1aXJlcyB0byBrbm93IHRo
-ZQppZGVudGlmaWVyIG9mIGVhY2ggcmVzb3VyY2UuIEl0IGlzIGFsc28gcG9z
-c2libGUgdG8gcHJldmVudCB3aG9sZSByZXNvdXJjZQp0eXBlcyAoZWcgYFMz
-QnVja2V0YCkgZnJvbSBnZXR0aW5nIGRlbGV0ZWQgd2l0aCB0d28gbWV0aG9k
-cy4KCiogVGhlIGAtLXRhcmdldGAgZmxhZyBsaW1pdHMgbnVraW5nIHRvIHRo
-ZSBzcGVjaWZpZWQgcmVzb3VyY2UgdHlwZXMuCiogVGhlIGAtLWV4Y2x1ZGVg
-IGZsYWcgcHJldmVudCBudWtpbmcgb2YgdGhlIHNwZWNpZmllZCByZXNvdXJj
-ZSB0eXBlcy4KCkl0IGlzIGFsc28gcG9zc2libGUgdG8gY29uZmlndXJlIHRo
-ZSByZXNvdXJjZSB0eXBlcyBpbiB0aGUgY29uZmlnIGZpbGUgbGlrZSBpbgp0
-aGVzZSBleGFtcGxlczoKCmBgYAotLS0KcmVnaW9uczoKICAtICJldS13ZXN0
-LTEiCmFjY291bnQtYmxhY2tsaXN0OgotIDEyMzQ1Njc4OTAKCnJlc291cmNl
-LXR5cGVzOgogICMgb25seSBudWtlIHRoZXNlIHRocmVlIHJlc291cmNlcwog
-IHRhcmdldHM6CiAgLSBTM09iamVjdAogIC0gUzNCdWNrZXQKICAtIElBTVJv
-bGUKCmFjY291bnRzOgogIDU1NTEzMzc0Mjoge30KYGBgCgpgYGAKLS0tCnJl
-Z2lvbnM6CiAgLSAiZXUtd2VzdC0xIgphY2NvdW50LWJsYWNrbGlzdDoKLSAx
-MjM0NTY3ODkwCgpyZXNvdXJjZS10eXBlczoKICAjIGRvbid0IG51a2UgSUFN
-IHVzZXJzCiAgZXhjbHVkZXM6CiAgLSBJQU1Vc2VyCgphY2NvdW50czoKICA1
-NTUxMzM3NDI6IHt9CmBgYAoKSWYgdGFyZ2V0cyBhcmUgc3BlY2lmaWVkIGlu
-IG11bHRpcGxlIHBsYWNlcyAoZWcgQ0xJIGFuZCBhY2NvdW50IHNwZWNpZmlj
-KSwgdGhlbgphIHJlc291cmNlIHR5cGUgbXVzdCBiZSBzcGVjaWZpZWQgaW4g
-YWxsIHBsYWNlcy4gSW4gb3RoZXIgd29yZHMgZWFjaApjb25maWd1cmF0aW9u
-IGxpbWl0cyB0aGUgcHJldmlvdXMgb25lcy4KCklmIGFuIGV4Y2x1ZGUgaXMg
-dXNlZCwgdGhlbiBhbGwgaXRzIHJlc291cmNlIHR5cGVzIHdpbGwgbm90IGJl
-IGRlbGV0ZWQuCgoqKkhpbnQ6KiogWW91IGNhbiBzZWUgYWxsIGF2YWlsYWJs
-ZSByZXNvdXJjZSB0eXBlcyB3aXRoIHRoaXMgY29tbWFuZDoKCmBgYAphd3Mt
-bnVrZSByZXNvdXJjZS10eXBlcwpgYGAKCiMjIyBGaWx0ZXJpbmcgUmVzb3Vy
-Y2VzCgpJdCBpcyBwb3NzaWJsZSB0byBmaWx0ZXIgdGhpcyBpcyBpbXBvcnRh
-bnQgZm9yIG5vdCBkZWxldGluZyB0aGUgY3VycmVudCB1c2VyCmZvciBleGFt
-cGxlIG9yIGZvciByZXNvdXJjZXMgbGlrZSBTMyBCdWNrZXRzIHdoaWNoIGhh
-dmUgYSBnbG9iYWxseSBzaGFyZWQKbmFtZXNwYWNlIGFuZCBtaWdodCBiZSBo
-YXJkIHRvIHJlY3JlYXRlLiBDdXJyZW50bHkgdGhlIGZpbHRlcmluZyBpcyBi
-YXNlZCBvbgp0aGUgcmVzb3VyY2UgaWRlbnRpZmllci4gVGhlIGlkZW50aWZp
-ZXIgd2lsbCBiZSBwcmludGVkIGFzIHRoZSBmaXJzdCBzdGVwIG9mCiphd3Mt
-bnVrZSogKGVnIGBpLTAxYjQ4OTQ1N2E2MDI5OGRkYCBmb3IgYW4gRUMyIGlu
-c3RhbmNlKS4KCioqTm90ZTogRXZlbiB3aXRoIGZpbHRlcnMgeW91IHNob3Vs
-ZCBub3QgcnVuIGF3cy1udWtlIG9uIGFueSBBV1MgYWNjb3VudCwgd2hlcmUK
-eW91IGNhbm5vdCBhZmZvcmQgdG8gbG9zZSBhbGwgcmVzb3VyY2VzLiBJdCBp
-cyBlYXN5IHRvIG1ha2UgbWlzdGFrZXMgaW4gdGhlCmZpbHRlciBjb25maWd1
-cmF0aW9uLiBBbHNvLCBzaW5jZSBhd3MtbnVrZSBpcyBpbiBjb250aW5vdXMg
-ZGV2ZWxvcG1lbnQsIHRoZXJlCmlzIGFsd2F5cyBhIHBvc3NpYmlsaXR5IHRv
-IGludHJvZHVjZSBuZXcgYnVncywgbm8gbWF0dGVyIGhvdyBjYXJlZnVsIHdl
-IHJldmlldwpuZXcgY29kZS4qKgoKVGhlIGZpbHRlcnMgYXJlIHBhcnQgb2Yg
-dGhlIGFjY291bnQtc3BlY2lmaWMgY29uZmlndXJhdGlvbiBhbmQgYXJlIGdy
-b3VwZWQgYnkKcmVzb3VyY2UgdHlwZXMuIFRoaXMgaXMgYW4gZXhhbXBsZSBv
-ZiBhIGNvbmZpZyB0aGF0IGRlbGV0ZXMgYWxsIHJlc291cmNlcyBidXQKdGhl
-IGBhZG1pbmAgdXNlciB3aXRoIGl0cyBhY2Nlc3MgcGVybWlzc2lvbnMgYW5k
-IHR3byBhY2Nlc3Mga2V5czoKCmBgYHlhbWwKLS0tCnJlZ2lvbnM6Ci0gZ2xv
-YmFsCi0gZXUtd2VzdC0xCgphY2NvdW50LWJsYWNrbGlzdDoKLSAxMjM0NTY3
-ODkwCgphY2NvdW50czoKICAwOTg3NjU0MzIxOgogICAgZmlsdGVyczoKICAg
-ICAgSUFNVXNlcjoKICAgICAgLSAiYWRtaW4iCiAgICAgIElBTVVzZXJQb2xp
-Y3lBdHRhY2htZW50OgogICAgICAtICJhZG1pbiAtPiBBZG1pbmlzdHJhdG9y
-QWNjZXNzIgogICAgICBJQU1Vc2VyQWNjZXNzS2V5OgogICAgICAtICJhZG1p
-biAtPiBBS1NEQUZSRVRFUlNERiIKICAgICAgLSAiYWRtaW4gLT4gQUZHRFNH
-UlRFV1NGRVkiCmBgYAoKQW55IHJlc291cmNlIHdob3NlIHJlc291cmNlIGlk
-ZW50aWZpZXIgZXhhY3RseSBtYXRjaGVzIGFueSBvZiB0aGUgZmlsdGVycyBp
-bgp0aGUgbGlzdCB3aWxsIGJlIHNraXBwZWQuIFRoZXNlIHdpbGwgYmUgbWFy
-a2VkIGFzICJmaWx0ZXJlZCBieSBjb25maWciIG9uIHRoZQoqYXdzLW51a2Uq
-IHJ1bi4KCiMjIyMgRmlsdGVyIFByb3BlcnRpZXMKClNvbWUgcmVzb3VyY2Vz
-IHN1cHBvcnQgZmlsdGVyaW5nIHZpYSBwcm9wZXJ0aWVzLiBXaGVuIGEgcmVz
-b3VyY2Ugc3VwcG9ydCB0aGVzZQpwcm9wZXJ0aWVzLCB0aGV5IHdpbGwgYmUg
-bGlzdGVkIGluIHRoZSBvdXRwdXQgbGlrZSBpbiB0aGlzIGV4YW1wbGU6Cgpg
-YGAKZ2xvYmFsIC0gSUFNVXNlclBvbGljeUF0dGFjaG1lbnQgLSAnYWRtaW4g
-LT4gQWRtaW5pc3RyYXRvckFjY2VzcycgLSBbUm9sZU5hbWU6ICJhZG1pbiIs
-IFBvbGljeUFybjogImFybjphd3M6aWFtOjphd3M6cG9saWN5L0FkbWluaXN0
-cmF0b3JBY2Nlc3MiLCBQb2xpY3lOYW1lOiAiQWRtaW5pc3RyYXRvckFjY2Vz
-cyJdIC0gd291bGQgcmVtb3ZlCmBgYAoKVG8gdXNlIHByb3BlcnRpZXMsIGl0
-IGlzIHJlcXVpcmVkIHRvIHNwZWNpZnkgYSBvYmplY3Qgd2l0aCBgcHJvcGVy
-dGllc2AgYW5kCmB2YWx1ZWAgaW5zdGVhZCBvZiB0aGUgcGxhaW4gc3RyaW5n
-LgoKVGhlc2UgdHlwZXMgY2FuIGJlIHVzZWQgdG8gc2ltcGxpZnkgdGhlIGNv
-bmZpZ3VyYXRpb24uIEZvciBleGFtcGxlLCBpdCBpcwpwb3NzaWJsZSB0byBw
-cm90ZWN0IGFsbCBhY2Nlc3Mga2V5cyBvZiBhIHNpbmdsZSB1c2VyOgoKYGBg
-eWFtbApJQU1Vc2VyQWNjZXNzS2V5OgotIHByb3BlcnR5OiBVc2VyTmFtZQog
-IHZhbHVlOiAiYWRtaW4iCmBgYAoKIyMjIyBGaWx0ZXIgVHlwZXMKClRoZXJl
-IGFyZSBhbHNvIGFkZGl0aW9uYWwgY29tcGFyaXNpb24gdHlwZXMgdGhhbiBh
-biBleGFjdCBtYXRjaDoKCiogYGV4YWN0YCDigJMgVGhlIGlkZW50aWZpZXIg
-bXVzdCBleGFjdGx5IG1hdGNoIHRoZSBnaXZlbiBzdHJpbmcuIFRoaXMgaXMg
-dGhlIGRlZmF1bHQuCiogYGNvbnRhaW5zYCDigJMgVGhlIGlkZW50aWZpZXIg
-bXVzdCBjb250YWluIHRoZSBnaXZlbiBzdHJpbmcuCiogYGdsb2JgIOKAkyBU
-aGUgaWRlbnRpZmllciBtdXN0IG1hdGNoIGFnYWluc3QgdGhlIGdpdmVuIFtn
-bG9iCiAgcGF0dGVybl0oaHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kv
-R2xvYl8ocHJvZ3JhbW1pbmcpKS4gVGhpcyBtZWFucyB0aGUKICBzdHJpbmcg
-bWlnaHQgY29udGFpbnMgd2lsZGNhcmRzIGxpa2UgYCpgIGFuZCBgP2AuIE5v
-dGUgdGhhdCBnbG9iYmluZyBpcwogIGRlc2lnbmVkIGZvciBmaWxlIHBhdGhz
-LCBzbyB0aGUgd2lsZGNhcmRzIGRvIG5vdCBtYXRjaCB0aGUgZGlyZWN0b3J5
-CiAgc2VwYXJhdG9yIChgL2ApLiBEZXRhaWxzIGFib3V0IHRoZSBnbG9iIHBh
-dHRlcm4gY2FuIGJlIGZvdW5kIGluIHRoZSBbbGlicmFyeQogIGRvY3VtZW50
-YXRpb25dKGh0dHBzOi8vZ29kb2Mub3JnL2dpdGh1Yi5jb20vbWIwL2dsb2Ip
-LgoqIGByZWdleGAg4oCTIFRoZSBpZGVudGlmaWVyIG11c3QgbWF0Y2ggYWdh
-aW5zdCB0aGUgZ2l2ZW4gcmVndWxhciBleHByZXNzaW9uLgogIERldGFpbHMg
-YWJvdXQgdGhlIHN5bnRheCBjYW4gYmUgZm91bmQgaW4gdGhlIFtsaWJyYXJ5
-CiAgZG9jdW1lbnRhdGlvbl0oaHR0cHM6Ly9nb2xhbmcub3JnL3BrZy9yZWdl
-eHAvc3ludGF4LykuCgpUbyB1c2UgYSBub24tZGVmYXVsdCBjb21wYXJpc2lv
-biB0eXBlLCBpdCBpcyByZXF1aXJlZCB0byBzcGVjaWZ5IGEgb2JqZWN0IHdp
-dGgKYHR5cGVgIGFuZCBgdmFsdWVgIGluc3RlYWQgb2YgdGhlIHBsYWluIHN0
-cmluZy4KClRoZXNlIHR5cGVzIGNhbiBiZSB1c2VkIHRvIHNpbXBsaWZ5IHRo
-ZSBjb25maWd1cmF0aW9uLiBGb3IgZXhhbXBsZSwgaXQgaXMKcG9zc2libGUg
-dG8gcHJvdGVjdCBhbGwgYWNjZXNzIGtleXMgb2YgYSBzaW5nbGUgdXNlciBi
-eSB1c2luZyBgZ2xvYmA6CgpgYGB5YW1sCklBTVVzZXJBY2Nlc3NLZXk6Ci0g
-dHlwZTogZ2xvYgogIHZhbHVlOiAiYWRtaW4gLT4gKiIKYGBgCgoKIyMjIyBV
-c2luZyBUaGVtIFRvZ2V0aGVyCgpJdCBpcyBhbHNvIHBvc3NpYmxlIHRvIHVz
-ZSBGaWx0ZXIgUHJvcGVydGllcyBhbmQgRmlsdGVyIFR5cGVzIHRvZ2V0aGVy
-LiBGb3IKZXhhbXBsZSB0byBwcm90ZWN0IGFsbCBIb3N0ZWQgWm9uZSBvZiBh
-IHNwZWNpZmljIFRMRDoKCmBgYHlhbWwKUm91dGU1M0hvc3RlZFpvbmU6Ci0g
-cHJvcGVydHk6IE5hbWUKICB0eXBlOiBnbG9iCiAgdmFsdWU6ICIqLnJlYnV5
-LmNsb3VkLiIKYGBgCgojIyMjICBJbnZlcnRpbmcgRmlsdGVyIFJlc3VsdHMK
-CkFueSBmaWx0ZXIgcmVzdWx0IGNhbiBiZSBpbnZlcnRlZCBieSB1c2luZyBg
-aW52ZXJ0OiB0cnVlYCwgZm9yIGV4YW1wbGU6CmBgYHlhbWwKQ2xvdWRGb3Jt
-YXRpb25TdGFjazoKLSBwcm9wZXJ0eTogTmFtZQogIHZhbHVlOiAiZm9vIgog
-IGludmVydDogdHJ1ZQpgYGAKCkluIHRoaXMgY2FzZSAqYW55KiBDbG91ZEZv
-cm1hdGlvblN0YWNrICoqKmJ1dCoqKiB0aGUgb25lcyBjYWxsZWQgImZvbyIg
-d2lsbCBiZQpmaWx0ZXJlZC4gQmUgYXdhcmUgdGhhdCAqYXdzLW51a2UqIGlu
-dGVybmFsbHkgdGFrZXMgZXZlcnkgcmVzb3VyY2UgYW5kIGFwcGxpZXMKZXZl
-cnkgZmlsdGVyIG9uIGl0LiBJZiBhIGZpbHRlciBtYXRjaGVzLCBpdCBtYXJr
-cyB0aGUgbm9kZSBhcyBmaWx0ZXJlZC4KCgojIyMjIEZpbHRlciBQcmVzZXRz
-CgpJdCBtaWdodCBiZSB0aGUgY2FzZSB0aGF0IHNvbWUgZmlsdGVycyBhcmUg
-dGhlIHNhbWUgYWNyb3NzIG11bHRpcGxlIGFjY291bnRzLgpUaGlzIGVzcGVj
-aWFsbHkgY291bGQgaGFwcGVuLCBpZiBwcm92aXNpb25pbmcgdG9vbHMgbGlr
-ZSBUZXJyYWZvcm0gYXJlIHVzZWQgb3IKaWYgSUFNIHJlc291cmNlcyBmb2xs
-b3cgdGhlIHNhbWUgcGF0dGVybi4KCkZvciB0aGlzIGNhc2UgKmF3cy1udWtl
-KiBzdXBwb3J0cyBwcmVzZXRzIG9mIGZpbHRlcnMsIHRoYXQgY2FuIGFwcGxp
-ZWQgb24KbXVsdGlwbGUgYWNjb3VudHMuIEEgY29uZmlndXJhdGlvbiBjb3Vs
-ZCBsb29rIGxpa2UgdGhpczoKCmBgYHlhbWwKLS0tCnJlZ2lvbnM6Ci0gImds
-b2JhbCIKLSAiZXUtd2VzdC0xIgoKYWNjb3VudC1ibGFja2xpc3Q6Ci0gMTIz
-NDU2Nzg5MAoKYWNjb3VudHM6CiAgNTU1NDIxMzM3OgogICAgcHJlc2V0czoK
-ICAgIC0gImNvbW1vbiIKICA1NTUxMzM3NDI6CiAgICBwcmVzZXRzOgogICAg
-LSAiY29tbW9uIgogICAgLSAidGVycmFmb3JtIgogIDU1NTEzNDIzNzoKICAg
-IHByZXNldHM6CiAgICAtICJjb21tb24iCiAgICAtICJ0ZXJyYWZvcm0iCiAg
-ICBmaWx0ZXJzOgogICAgICBFQzJLZXlQYWlyOgogICAgICAtICJub3RlYm9v
-ayIKCnByZXNldHM6CiAgdGVycmFmb3JtOgogICAgZmlsdGVyczoKICAgICAg
-UzNCdWNrZXQ6CiAgICAgIC0gdHlwZTogZ2xvYgogICAgICAgIHZhbHVlOiAi
-bXktc3RhdGVidWNrZXQtKiIKICAgICAgRHluYW1vREJUYWJsZToKICAgICAg
-LSAidGVycmFmb3JtLWxvY2siCiAgY29tbW9uOgogICAgZmlsdGVyOgogICAg
-ICBJQU1Sb2xlOgogICAgICAtICJPcmdhbml6YXRpb25BY2NvdW50QWNjZXNz
-Um9sZSIKYGBgCgoKIyMgSW5zdGFsbAoKIyMjIFVzZSBSZWxlYXNlZCBCaW5h
-cmllcwoKVGhlIGVhc2llc3Qgd2F5IG9mIGluc3RhbGxpbmcgaXQsIGlzIHRv
-IGRvd25sb2FkIHRoZSBsYXRlc3QKW3JlbGVhc2VdKGh0dHBzOi8vZ2l0aHVi
-LmNvbS9yZWJ1eS1kZS9hd3MtbnVrZS9yZWxlYXNlcykgZnJvbSBHaXRIdWIu
-CgojIyMgQ29tcGlsZSBmcm9tIFNvdXJjZQoKVG8gY29tcGlsZSAqYXdzLW51
-a2UqIGZyb20gc291cmNlIHlvdSBuZWVkIGEgd29ya2luZwpbR29sYW5nXSho
-dHRwczovL2dvbGFuZy5vcmcvZG9jL2luc3RhbGwpIGRldmVsb3BtZW50IGVu
-dmlyb25tZW50LiBUaGUgc291cmNlcwptdXN0IGJlIGNsb25lZCB0byBgJEdP
-UEFUSC9zcmMvZ2l0aHViLmNvbS9yZWJ1eS1kZS9hd3MtbnVrZWAuCgpBbHNv
-IHlvdSBuZWVkIHRvIGluc3RhbGwgW0dsaWRlXShodHRwczovL2dsaWRlLnNo
-LyksCltnb2xpbnRdKGh0dHBzOi8vZ2l0aHViLmNvbS9nb2xhbmcvbGludC8p
-IGFuZCBbR05VCk1ha2VdKGh0dHBzOi8vd3d3LmdudS5vcmcvc29mdHdhcmUv
-bWFrZS8pLgoKVGhlbiB5b3UganVzdCBuZWVkIHRvIHJ1biBgbWFrZSBidWls
-ZGAgdG8gY29tcGlsZSBhIGJpbmFyeSBpbnRvIHRoZSBwcm9qZWN0CmRpcmVj
-dG9yeSBvciBgbWFrZSBpbnN0YWxsYCBnbyBpbnN0YWxsICphd3MtbnVrZSog
-aW50byBgJEdPUEFUSC9iaW5gLiBXaXRoCmBtYWtlIHhjYCB5b3UgY2FuIGNy
-b3NzIGNvbXBpbGUgKmF3cy1udWtlKiBmb3Igb3RoZXIgcGxhdGZvcm1zLgoK
-IyMjIERvY2tlcgoKVG8gdXNlIHRoZSBwcm92aWRlZCBEb2NrZXIgaW1wbGVt
-ZW50YXRpb24sIGZpcnN0IHlvdSBuZWVkIHRvIG1ha2Ugc3VyZSB5b3UndmUg
-CmNyZWF0ZWQgdGhlIGNvbmZpZyBmaWxlIGFuZCB0aGF0IGl0IGV4aXN0cyBp
-biB0aGUgYGNvbmZpZ2AgZGlyZWN0b3J5LgpNYWtlIHN1cmUgeW91IGFyZSBp
-biB0aGUgcHJvamVjdCdzIHJvb3QgZGlyZWN0b3J5LCB0aGVuIHlvdSBuZWVk
-IHRvIGJ1aWxkIAp0aGUgaW1hZ2UgYW5kIHJ1biB0aGUgY29udGFpbmVyOgoK
-YGBgYmFzaAokIGRvY2tlciBidWlsZCAuIC10IHJlYnV5LWRlL2F3c19udWtl
-CgokIGRvY2tlciBydW4gLWEgc3RkaW4gLWEgc3Rkb3V0IC10aSByZWJ1eS1k
-ZS9hd3NfbnVrZSAtYyBjb25maWcvbnVrZS1jb25maWcueW1sIC0tcHJvZmls
-ZSBhd3MtbnVrZS1leGFtcGxlCmBgYAoKVGhlIC1hIGZsYWcgdGVsbHMgZG9j
-a2VyIHJ1biB0byBiaW5kIHRvIHRoZSBjb250YWluZXIncyBTVERJTiwgU1RE
-T1VUIG9yIFNUREVSUi4gClRoaXMgbWFrZXMgaXQgcG9zc2libGUgdG8gbWFu
-aXB1bGF0ZSB0aGUgb3V0cHV0IGFuZCBpbnB1dCBhcyBuZWVkZWQuIAoKVGhl
-IC10IGZsYWcgYWxsb2NhdGVzIGEgcHNldWRvLVRUWSBhbmQgdGhlIC1pIGZs
-YWcga2VlcHMgU1RESU4gb3BlbiBldmVuIAppZiBub3QgYXR0YWNoZWQuCgoj
-IyBDb250YWN0IENoYW5uZWxzCgpGZWVsIGZyZWUgdG8gY3JlYXRlIGEgR2l0
-SHViIElzc3VlIGZvciBhbnkgcXVlc3Rpb25zLCBidWcgcmVwb3J0cyBvciBm
-ZWF0dXJlCnJlcXVlc3RzLgoKIyMgQ29udHJpYnV0ZQoKWW91IGNhbiBjb250
-cmlidXRlIHRvICphd3MtbnVrZSogYnkgZm9ya2luZyB0aGlzIHJlcG9zaXRv
-cnksIG1ha2luZyB5b3VyCmNoYW5nZXMgYW5kIGNyZWF0aW5nIGEgUHVsbCBS
-ZXF1ZXN0IGFnYWluc3Qgb3VyIHJlcG9zaXRvcnkuIElmIHlvdSBhcmUgdW5z
-dXJlCmhvdyB0byBzb2x2ZSBhIHByb2JsZW0gb3IgaGF2ZSBvdGhlciBxdWVz
-dGlvbnMgYWJvdXQgYSBjb250cmlidXRpb25zLCBwbGVhc2UKY3JlYXRlIGEg
-R2l0SHViIGlzc3VlLgo=
+# aws-nuke
+
+[![Build Status](https://travis-ci.org/rebuy-de/aws-nuke.svg?branch=master)](https://travis-ci.org/rebuy-de/aws-nuke)
+[![license](https://img.shields.io/github/license/rebuy-de/aws-nuke.svg)](https://github.com/rebuy-de/aws-nuke/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/rebuy-de/aws-nuke.svg)](https://github.com/rebuy-de/aws-nuke/releases)
+
+Remove all resources from an AWS account.
+
+> **Development Status** *aws-nuke* is stable, but it is likely that not all AWS
+resources are covered by it. Be encouraged to add missing resources and create
+a Pull Request or to create an [Issue](https://github.com/rebuy-de/aws-nuke/issues/new).
+
+## Caution!
+
+Be aware that *aws-nuke* is a very destructive tool, hence you have to be very
+careful while using it. Otherwise you might delete production data.
+
+**We strongly advice you to not run this application on any AWS account, where
+you cannot afford to lose all resources.**
+
+To reduce the blast radius of accidents, there are some safety precautions:
+
+1. By default *aws-nuke* only lists all nukeable resources. You need to add
+   `--no-dry-run` to actually delete resources.
+2. *aws-nuke* asks you twice to confirm the deletion by entering the account
+   alias. The first time is directly after the start and the second time after
+   listing all nukeable resources.
+3. To avoid just displaying a account ID, which might gladly be ignored by
+   humans, it is required to actually set an [Account
+   Alias](https://docs.aws.amazon.com/IAM/latest/UserGuide/console_account-alias.html)
+   for your account. Otherwise *aws-nuke* will abort.
+4. The Account Alias must not contain the string `prod`. This string is
+   hardcoded and it is recommended to add it to every actual production account
+   (eg `mycompany-production-ecr`).
+5. The config file contains a blacklist field. If the Account ID of the account
+   you want to nuke is part of this blacklist, *aws-nuke* will abort. It is
+   recommended, that you add every production account to this blacklist.
+6. To ensure you don't just ignore the blacklisting feature, the blacklist must
+   contain at least one Account ID.
+7. The config file contains account specific settings (eg. filters). The
+   account you want to nuke must be explicitly listed there.
+8. To ensure to not accidentally delete a random account, it is required to
+   specify a config file. It is recommended to have only a single config file
+   and add it to a central repository. This way the account blacklist is way
+   easier to manage and keep up to date.
+
+Feel free to create an issue, if you have any ideas to improve the safety
+procedures.
+
+
+## Use Cases
+
+* We are testing our [Terraform](https://www.terraform.io/) code with Jenkins.
+  Sometimes a Terraform run fails during development and messes up the account.
+  With *aws-nuke* we can simply clean up the failed account so it can be reused
+  for the next build.
+* Our platform developers have their own AWS Accounts where they can create
+  their own Kubernetes clusters for testing purposes. With *aws-nuke* it is
+  very easy to clean up these account at the end of the day and keep the costs
+  low.
+
+
+## Usage
+
+At first you need to create a config file for *aws-nuke*. This is a minimal one:
+
+```yaml
+regions:
+- eu-west-1
+
+account-blacklist:
+- "999999999999" # production
+
+accounts:
+  "000000000000": {} # aws-nuke-example
+```
+
+With this config we can run *aws-nuke*:
+
+```
+$ aws-nuke -c config/nuke-config.yml --profile aws-nuke-example
+aws-nuke version v1.0.39.gc2f318f - Fri Jul 28 16:26:41 CEST 2017 - c2f318f37b7d2dec0e646da3d4d05ab5296d5bce
+
+Do you really want to nuke the account with the ID 000000000000 and the alias 'aws-nuke-example'?
+Do you want to continue? Enter account alias to continue.
+> aws-nuke-example
+
+eu-west-1 - EC2DHCPOption - 'dopt-bf2ec3d8' - would remove
+eu-west-1 - EC2Instance - 'i-01b489457a60298dd' - would remove
+eu-west-1 - EC2KeyPair - 'test' - would remove
+eu-west-1 - EC2NetworkACL - 'acl-6482a303' - cannot delete default VPC
+eu-west-1 - EC2RouteTable - 'rtb-ffe91e99' - would remove
+eu-west-1 - EC2SecurityGroup - 'sg-220e945a' - cannot delete group 'default'
+eu-west-1 - EC2SecurityGroup - 'sg-f20f958a' - would remove
+eu-west-1 - EC2Subnet - 'subnet-154d844e' - would remove
+eu-west-1 - EC2Volume - 'vol-0ddfb15461a00c3e2' - would remove
+eu-west-1 - EC2VPC - 'vpc-c6159fa1' - would remove
+eu-west-1 - IAMUserAccessKey - 'my-user -> ABCDEFGHIJKLMNOPQRST' - would remove
+eu-west-1 - IAMUserPolicyAttachment - 'my-user -> AdministratorAccess' - [UserName: "my-user", PolicyArn: "arn:aws:iam::aws:policy/AdministratorAccess", PolicyName: "AdministratorAccess"] - would remove
+eu-west-1 - IAMUser - 'my-user' - would remove
+Scan complete: 13 total, 11 nukeable, 2 filtered.
+
+Would delete these resources. Provide --no-dry-run to actually destroy resources.
+```
+
+As we see, *aws-nuke* only lists all found resources and exits. This is because
+the `--no-dry-run` flag is missing. Also it wants to delete the
+administrator. We don't want to do this, because we use this user to access
+our account. Therefore we have to extend the config so it ignores this user:
+
+
+```yaml
+regions:
+- eu-west-1
+
+account-blacklist:
+- "999999999999" # production
+
+accounts:
+  "000000000000": # aws-nuke-example
+    filters:
+      IAMUser:
+      - "my-user"
+      IAMUserPolicyAttachment:
+      - "my-user -> AdministratorAccess"
+      IAMUserAccessKey:
+      - "my-user -> ABCDEFGHIJKLMNOPQRST"
+```
+
+```
+$ aws-nuke -c config/nuke-config.yml --profile aws-nuke-example --no-dry-run
+aws-nuke version v1.0.39.gc2f318f - Fri Jul 28 16:26:41 CEST 2017 - c2f318f37b7d2dec0e646da3d4d05ab5296d5bce
+
+Do you really want to nuke the account with the ID 000000000000 and the alias 'aws-nuke-example'?
+Do you want to continue? Enter account alias to continue.
+> aws-nuke-example
+
+eu-west-1 - EC2DHCPOption - 'dopt-bf2ec3d8' - would remove
+eu-west-1 - EC2Instance - 'i-01b489457a60298dd' - would remove
+eu-west-1 - EC2KeyPair - 'test' - would remove
+eu-west-1 - EC2NetworkACL - 'acl-6482a303' - cannot delete default VPC
+eu-west-1 - EC2RouteTable - 'rtb-ffe91e99' - would remove
+eu-west-1 - EC2SecurityGroup - 'sg-220e945a' - cannot delete group 'default'
+eu-west-1 - EC2SecurityGroup - 'sg-f20f958a' - would remove
+eu-west-1 - EC2Subnet - 'subnet-154d844e' - would remove
+eu-west-1 - EC2Volume - 'vol-0ddfb15461a00c3e2' - would remove
+eu-west-1 - EC2VPC - 'vpc-c6159fa1' - would remove
+eu-west-1 - IAMUserAccessKey - 'my-user -> ABCDEFGHIJKLMNOPQRST' - filtered by config
+eu-west-1 - IAMUserPolicyAttachment - 'my-user -> AdministratorAccess' - [UserName: "my-user", PolicyArn: "arn:aws:iam::aws:policy/AdministratorAccess", PolicyName: "AdministratorAccess"] - would remove
+eu-west-1 - IAMUser - 'my-user' - filtered by config
+Scan complete: 13 total, 8 nukeable, 5 filtered.
+
+Do you really want to nuke these resources on the account with the ID 000000000000 and the alias 'aws-nuke-example'?
+Do you want to continue? Enter account alias to continue.
+> aws-nuke-example
+
+eu-west-1 - EC2DHCPOption - 'dopt-bf2ec3d8' - failed
+eu-west-1 - EC2Instance - 'i-01b489457a60298dd' - triggered remove
+eu-west-1 - EC2KeyPair - 'test' - triggered remove
+eu-west-1 - EC2RouteTable - 'rtb-ffe91e99' - failed
+eu-west-1 - EC2SecurityGroup - 'sg-f20f958a' - failed
+eu-west-1 - EC2Subnet - 'subnet-154d844e' - failed
+eu-west-1 - EC2Volume - 'vol-0ddfb15461a00c3e2' - failed
+eu-west-1 - EC2VPC - 'vpc-c6159fa1' - failed
+eu-west-1 - S3Object - 's3://rebuy-terraform-state-138758637120/run-terraform.lock' - triggered remove
+
+Removal requested: 2 waiting, 6 failed, 5 skipped, 0 finished
+
+eu-west-1 - EC2DHCPOption - 'dopt-bf2ec3d8' - failed
+eu-west-1 - EC2Instance - 'i-01b489457a60298dd' - waiting
+eu-west-1 - EC2KeyPair - 'test' - removed
+eu-west-1 - EC2RouteTable - 'rtb-ffe91e99' - failed
+eu-west-1 - EC2SecurityGroup - 'sg-f20f958a' - failed
+eu-west-1 - EC2Subnet - 'subnet-154d844e' - failed
+eu-west-1 - EC2Volume - 'vol-0ddfb15461a00c3e2' - failed
+eu-west-1 - EC2VPC - 'vpc-c6159fa1' - failed
+
+Removal requested: 1 waiting, 6 failed, 5 skipped, 1 finished
+
+--- truncating long output ---
+```
+
+As you see *aws-nuke* now tries to delete all resources which aren't filtered,
+without caring about the dependencies between them. This results in API errors
+which can be ignored. These errors are shown at the end of the *aws-nuke* run,
+if they keep to appear.
+
+*aws-nuke* retries deleting all resources until all specified ones are deleted
+or until there are only resources with errors left.
+
+### AWS Credentials
+
+There are two ways to authenticate *aws-nuke*. There are static credentials and
+profiles. The later one can be configured in the shared credentials file (ie
+`~/.aws/credentials`) or the shared config file (ie `~/.aws/config`).
+
+To use *static credentials* the command line flags `--access-key-id` and
+`--secret-access-key` are required. The flag `--session-token` is only required
+for temporary sessions.
+
+To use *shared profiles* the command line flag `--profile` is required. The
+profile must be either defined with static credentials in the [shared
+credential
+file](https://docs.aws.amazon.com/cli/latest/userguide/cli-multiple-profiles.html)
+or in [shared config
+file](https://docs.aws.amazon.com/cli/latest/userguide/cli-roles.html) with an
+assuming role.
+
+### Specifying Resource Types to Delete
+
+*aws-nuke* deletes a lot of resources and there might be added more at any
+release. Eventually, every resources should get deleted. You might want to
+restrict which resources to delete. There are multiple ways to configure this.
+
+One way are filters, which already got mentioned. This requires to know the
+identifier of each resource. It is also possible to prevent whole resource
+types (eg `S3Bucket`) from getting deleted with two methods.
+
+* The `--target` flag limits nuking to the specified resource types.
+* The `--exclude` flag prevent nuking of the specified resource types.
+
+It is also possible to configure the resource types in the config file like in
+these examples:
+
+```
+---
+regions:
+  - "eu-west-1"
+account-blacklist:
+- 1234567890
+
+resource-types:
+  # only nuke these three resources
+  targets:
+  - S3Object
+  - S3Bucket
+  - IAMRole
+
+accounts:
+  555133742: {}
+```
+
+```
+---
+regions:
+  - "eu-west-1"
+account-blacklist:
+- 1234567890
+
+resource-types:
+  # don't nuke IAM users
+  excludes:
+  - IAMUser
+
+accounts:
+  555133742: {}
+```
+
+If targets are specified in multiple places (eg CLI and account specific), then
+a resource type must be specified in all places. In other words each
+configuration limits the previous ones.
+
+If an exclude is used, then all its resource types will not be deleted.
+
+**Hint:** You can see all available resource types with this command:
+
+```
+aws-nuke resource-types
+```
+
+### Filtering Resources
+
+It is possible to filter this is important for not deleting the current user
+for example or for resources like S3 Buckets which have a globally shared
+namespace and might be hard to recreate. Currently the filtering is based on
+the resource identifier. The identifier will be printed as the first step of
+*aws-nuke* (eg `i-01b489457a60298dd` for an EC2 instance).
+
+**Note: Even with filters you should not run aws-nuke on any AWS account, where
+you cannot afford to lose all resources. It is easy to make mistakes in the
+filter configuration. Also, since aws-nuke is in continous development, there
+is always a possibility to introduce new bugs, no matter how careful we review
+new code.**
+
+The filters are part of the account-specific configuration and are grouped by
+resource types. This is an example of a config that deletes all resources but
+the `admin` user with its access permissions and two access keys:
+
+```yaml
+---
+regions:
+- global
+- eu-west-1
+
+account-blacklist:
+- 1234567890
+
+accounts:
+  0987654321:
+    filters:
+      IAMUser:
+      - "admin"
+      IAMUserPolicyAttachment:
+      - "admin -> AdministratorAccess"
+      IAMUserAccessKey:
+      - "admin -> AKSDAFRETERSDF"
+      - "admin -> AFGDSGRTEWSFEY"
+```
+
+Any resource whose resource identifier exactly matches any of the filters in
+the list will be skipped. These will be marked as "filtered by config" on the
+*aws-nuke* run.
+
+#### Filter Properties
+
+Some resources support filtering via properties. When a resource support these
+properties, they will be listed in the output like in this example:
+
+```
+global - IAMUserPolicyAttachment - 'admin -> AdministratorAccess' - [RoleName: "admin", PolicyArn: "arn:aws:iam::aws:policy/AdministratorAccess", PolicyName: "AdministratorAccess"] - would remove
+```
+
+To use properties, it is required to specify a object with `properties` and
+`value` instead of the plain string.
+
+These types can be used to simplify the configuration. For example, it is
+possible to protect all access keys of a single user:
+
+```yaml
+IAMUserAccessKey:
+- property: UserName
+  value: "admin"
+```
+
+#### Filter Types
+
+There are also additional comparision types than an exact match:
+
+* `exact` – The identifier must exactly match the given string. This is the default.
+* `contains` – The identifier must contain the given string.
+* `glob` – The identifier must match against the given [glob
+  pattern](https://en.wikipedia.org/wiki/Glob_(programming)). This means the
+  string might contains wildcards like `*` and `?`. Note that globbing is
+  designed for file paths, so the wildcards do not match the directory
+  separator (`/`). Details about the glob pattern can be found in the [library
+  documentation](https://godoc.org/github.com/mb0/glob).
+* `regex` – The identifier must match against the given regular expression.
+  Details about the syntax can be found in the [library
+  documentation](https://golang.org/pkg/regexp/syntax/).
+
+To use a non-default comparision type, it is required to specify a object with
+`type` and `value` instead of the plain string.
+
+These types can be used to simplify the configuration. For example, it is
+possible to protect all access keys of a single user by using `glob`:
+
+```yaml
+IAMUserAccessKey:
+- type: glob
+  value: "admin -> *"
+```
+
+
+#### Using Them Together
+
+It is also possible to use Filter Properties and Filter Types together. For
+example to protect all Hosted Zone of a specific TLD:
+
+```yaml
+Route53HostedZone:
+- property: Name
+  type: glob
+  value: "*.rebuy.cloud."
+```
+
+####  Inverting Filter Results
+
+Any filter result can be inverted by using `invert: true`, for example:
+```yaml
+CloudFormationStack:
+- property: Name
+  value: "foo"
+  invert: true
+```
+
+In this case *any* CloudFormationStack ***but*** the ones called "foo" will be
+filtered. Be aware that *aws-nuke* internally takes every resource and applies
+every filter on it. If a filter matches, it marks the node as filtered.
+
+
+#### Filter Presets
+
+It might be the case that some filters are the same across multiple accounts.
+This especially could happen, if provisioning tools like Terraform are used or
+if IAM resources follow the same pattern.
+
+For this case *aws-nuke* supports presets of filters, that can applied on
+multiple accounts. A configuration could look like this:
+
+```yaml
+---
+regions:
+- "global"
+- "eu-west-1"
+
+account-blacklist:
+- 1234567890
+
+accounts:
+  555421337:
+    presets:
+    - "common"
+  555133742:
+    presets:
+    - "common"
+    - "terraform"
+  555134237:
+    presets:
+    - "common"
+    - "terraform"
+    filters:
+      EC2KeyPair:
+      - "notebook"
+
+presets:
+  terraform:
+    filters:
+      S3Bucket:
+      - type: glob
+        value: "my-statebucket-*"
+      DynamoDBTable:
+      - "terraform-lock"
+  common:
+    filter:
+      IAMRole:
+      - "OrganizationAccountAccessRole"
+```
+
+
+## Install
+
+### Use Released Binaries
+
+The easiest way of installing it, is to download the latest
+[release](https://github.com/rebuy-de/aws-nuke/releases) from GitHub.
+
+### Compile from Source
+
+To compile *aws-nuke* from source you need a working
+[Golang](https://golang.org/doc/install) development environment. The sources
+must be cloned to `$GOPATH/src/github.com/rebuy-de/aws-nuke`.
+
+Also you need to install [Glide](https://glide.sh/),
+[golint](https://github.com/golang/lint/) and [GNU
+Make](https://www.gnu.org/software/make/).
+
+Then you just need to run `make build` to compile a binary into the project
+directory or `make install` go install *aws-nuke* into `$GOPATH/bin`. With
+`make xc` you can cross compile *aws-nuke* for other platforms.
+
+### Docker
+
+To use the provided Docker implementation, first you need to make sure you've 
+created the config file and that it exists in the `config` directory.
+Make sure you are in the project's root directory, then you need to build 
+the image and run the container:
+
+```bash
+$ docker build . -t rebuy-de/aws_nuke
+
+$ docker run -a stdin -a stdout -ti rebuy-de/aws_nuke -c config/nuke-config.yml --profile aws-nuke-example
+```
+
+The -a flag tells docker run to bind to the container's STDIN, STDOUT or STDERR. 
+This makes it possible to manipulate the output and input as needed. 
+
+The -t flag allocates a pseudo-TTY and the -i flag keeps STDIN open even 
+if not attached.
+
+## Contact Channels
+
+Feel free to create a GitHub Issue for any questions, bug reports or feature
+requests.
+
+## Contribute
+
+You can contribute to *aws-nuke* by forking this repository, making your
+changes and creating a Pull Request against our repository. If you are unsure
+how to solve a problem or have other questions about a contributions, please
+create a GitHub issue.
