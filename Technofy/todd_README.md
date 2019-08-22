@@ -1,137 +1,81 @@
-VG9ERAo9PT09ClshW0J1aWxkIFN0YXR1c10oaHR0cHM6Ly90cmF2aXMtY2ku
-b3JnL3RvZGRwcm9qZWN0L3RvZGQuc3ZnP2JyYW5jaD1tYXN0ZXIpXShodHRw
-czovL3RyYXZpcy1jaS5vcmcvdG9kZHByb2plY3QvdG9kZCkKWyFbRG9jdW1l
-bnRhdGlvbiBTdGF0dXNdKGh0dHBzOi8vcmVhZHRoZWRvY3Mub3JnL3Byb2pl
-Y3RzL3RvZGQvYmFkZ2UvP3ZlcnNpb249bGF0ZXN0KV0oaHR0cDovL3RvZGQu
-cmVhZHRoZWRvY3Mub3JnL2VuL2xhdGVzdC8/YmFkZ2U9bGF0ZXN0KQpbIVtH
-byBSZXBvcnQgQ2FyZF0oaHR0cHM6Ly9nb3JlcG9ydGNhcmQuY29tL2JhZGdl
-L2dpdGh1Yi5jb20vdG9kZHByb2plY3QvdG9kZCldKGh0dHBzOi8vZ29yZXBv
-cnRjYXJkLmNvbS9yZXBvcnQvZ2l0aHViLmNvbS90b2RkcHJvamVjdC90b2Rk
-KQoKVG9ERCBzdGFuZHMgZm9yICJUZXN0aW5nIG9uIERlbWFuZDogRGlzdHJp
-YnV0ZWQhIi4gVG9ERCBpcyBhbiBleHRlbnNpYmxlIGZyYW1ld29yayBmb3Ig
-cHJvdmlkaW5nIG5hdGl2ZWx5IGRpc3RyaWJ1dGVkIHRlc3Rpbmcgb24gZGVt
-YW5kLgoKPiBUb0REIHNob3VsZCBiZSBjb25zaWRlcmVkICJlYXJseSBhbHBo
-YSIgc3RhdHVzIGF0IHRoaXMgcG9pbnQuIEN1cnJlbnQgZWZmb3J0cyBhcmUg
-Zm9jdXNlZCBwcmltYXJpbHkgYXQgaW5jcmVhc2luZyB0ZXN0IGNvdmVyYWdl
-IGFuZCBncmVhdGVyIHJlbGlhYmlsaXR5LCBpbiBvcmRlciB0byBtb3ZlIFRv
-REQgaW50byBhIG1vcmUgc3RhYmxlLCBiZXRhIHN0YXR1cy4KCiMgT3ZlcnZp
-ZXcKClRyYWRpdGlvbmFsbHksIHRoZSB0b29saW5nIHVzZWQgYnkgbmV0d29y
-ayBlbmdpbmVlcnMgdG8gY29uZmlybSBjb250aW51ZWQgbmV0d29yayBvcGVy
-YXRpb24gYWZ0ZXIgYW55IGtpbmQgb2YgY2hhbmdlIHRvIHRoZSBuZXR3b3Jr
-IGlzIGZhaXJseSBsaW1pdGVkLiBBZnRlciBhIGNoYW5nZSwgYSBuZXR3b3Jr
-IGVuZ2luZWVyIG1heSBydW4gInBpbmciIG9yICJ0cmFjZXJvdXRlIiBmcm9t
-IHRoZWlyIG1hY2hpbmUsIG9yIHBlcmhhcHMgY2FsbCBzb21lIGFwcGxpY2F0
-aW9uIG93bmVycyB0byBlbnN1cmUgdGhhdCB0aGVpciBhcHBzIGFyZSBzdGls
-bCB3b3JraW5nLiBVbmZvcnR1bmF0ZWx5LCB0aGVyZSBpcyBhIHZlcnkgYmln
-IGRpZmZlcmVuY2UgaW4gbmV0d29yayBhY3Rpdml0eSBiZXR3ZWVuIGEgM0FN
-IGNoYW5nZSB3aW5kb3cgYW5kIHBlYWsgdXNlciBhY3Rpdml0eSBkdXJpbmcg
-dGhlIGRheS4KClRvREQgYWRkcmVzc2VzIGdhcHMgaW4gdG9kYXkncyB0ZXN0
-aW5nIHNvZnR3YXJlIGluIHRocmVlIHdheXM6CgotIEVuYWJsZXMgcmVhbC13
-b3JsZCB0cmFmZmljIGRpc3RyaWJ1dGlvbiBmb3IgdGVzdHMgdXNpbmcgdmVy
-eSBzaW1wbGUgZ3JvdXBpbmcgcHJpbWl0aXZlcwotIFByb3ZpZGVzIGEgdG90
-YWxseSBvcGVuIGFuZCBleHRlbnNpYmxlIG1lY2hhbmlzbSBmb3IgZGVmaW5p
-bmcgdGVzdHMKLSBFeHBvc2VzIHRlc3RpbmcgZGF0YSBpbiBhIHRvdGFsbHkg
-b3BlbiB3YXksIGVhc2lseSBhbGxvd2luZyBmb3IgM3JkIHBhcnR5IHNvZnR3
-YXJlIHRvIGFuYWx5emUgYW5kIHZpc3VhbGl6ZQoKVG9ERCBpcyBhIGZyYW1l
-d29yayB0aHJvdWdoIHdoaWNoIHlvdSBjYW4gZGVwbG95IHNpbXBsZSB0ZXN0
-LW9yaWVudGVkIGFwcGxpY2F0aW9ucyBpbiBhIGRpc3RyaWJ1dGVkIG1hbm5l
-ci4gV2l0aCBUb0RELCB5b3UgZGlzdHJpYnV0ZSBhZ2VudHMgYXJvdW5kIHlv
-dXIgaW5mcmFzdHJ1Y3R1cmUgaW4gYW55IHBsYWNlIHdoZXJlIHlvdSBmZWVs
-IGFkZGl0aW9uYWwgInRlc3RpbmcgcG93ZXIiIGlzIHdhcnJhbnRlZC4gVGhl
-biwgdGhlc2UgYWdlbnRzIGNhbiBiZSBsZXZlcmFnZWQgdG8gbWltaWMgcmVh
-bC13b3JsZCBuZXR3b3JrIHV0aWxpemF0aW9uIGJ5IGFjdHVhbGx5IHJ1bm5p
-bmcgdGhvc2Ugc2FtZSBhcHBsaWNhdGlvbnMgYXQgYSBsYXJnZSBzY2FsZS4K
-CkhlcmUgYXJlIHNvbWUga2V5IGZlYXR1cmVzIHByb3ZpZGVkIGJ5IFRvREQ6
-CgotICoqSGlnaGx5IEV4dGVuc2libGUqKiAtIFRvREQgdXNlcyBhbiBleHRy
-ZW1lbHkgZ2VuZXJpYyBpbnRlcmZhY2UgKGNhbGxlZCB0ZXN0bGV0cykgZm9y
-IHJ1bm5pbmcgYXBwbGljYXRpb25zLCBzbyB0aGF0IHVzZXJzIGNhbiB2ZXJ5
-IGVhc2lseSBhdWdtZW50IFRvREQgdG8gc3VwcG9ydCBhIG5ldyBhcHBsaWNh
-dGlvbi4KLSAqKlBvc3QtVGVzdCBBbmFseXRpY3MqKiAtIFRvREQgaW50ZWdy
-YXRlcyB3aXRoIHRpbWUtc2VyaWVzIGRhdGFiYXNlcywgc3VjaCBhcyBpbmZs
-dXhkYi4gV2l0aCB0aGlzLCBlbmdpbmVlcnMgY2FuIHNjaGVkdWxlIFRvREQg
-dGVzdCBydW5zIHRvIG9jY3VyIHBlcmlvZGljYWxseSwgYW5kIG9ic2VydmUg
-dGhlIHRlc3RydW4gbWV0cmljcyBjaGFuZ2luZyBvdmVyIHRpbWUuCi0gKipH
-cm91cGluZyoqIC0gVG9ERCBwZXJmb3JtcyB0ZXN0cnVucyBmcm9tIGdyb3Vw
-cyBvZiBhZ2VudHMsIGluc3RlYWQgb2Ygb25lIHNwZWNpZmljIGFnZW50LiBU
-aGUgdXNlciB3aWxsIHByb3ZpZGUgYSBzZXQgb2YgcnVsZXMgdGhhdCBwbGFj
-ZSBhIGdpdmVuIGFnZW50IGludG8gYSBncm91cCAoc3VjaCBhcyBob3N0bmFt
-ZSwgb3IgaXAgc3VibmV0KSwgYW5kIFRvREQgd2lsbCBpbnN0cnVjdCBhbGwg
-YWdlbnRzIGluIHRoYXQgZ3JvdXAgdG8gcGVyZm9ybSB0aGUgdGVzdC4gVGhp
-cyBtZWFucyB0aGF0IHRoZSBwb3dlciBvZiBhIHRlc3QgY2FuIGJlIGluY3Jl
-YXNlZCBieSBzaW1wbHkgc3Bpbm5pbmcgdXAgYWRkaXRpb25hbCBhZ2VudHMg
-aW4gdGhhdCBncm91cC4KLSAqKkRpdmVyc2UgVGFyZ2V0IFR5cGVzKiogLSBU
-ZXN0IHJ1bnMgY2FuIGJlIGNvbmZpZ3VyZWQgdG8gdGFyZ2V0IGEgbGlzdCBv
-ZiAiZHVtYiIgdGFyZ2V0cyAodGFyZ2V0cyB0aGF0IGFyZSBub3QgcnVubmlu
-ZyBhIFRvREQgYWdlbnQpLCBvciBhIFRvREQgZ3JvdXAuIFRoaXMgaXMgdXNl
-ZnVsIGZvciBjZXJ0YWluIGFwcGxpY2F0aW9ucyB3aGVyZSB5b3UgbmVlZCB0
-byBiZSBhYmxlIHRvIHNldCB1cCBib3RoIGVuZHMgb2YgYSB0ZXN0IChpLmUu
-IHNldHRpbmcgdXAgYSB3ZWJzZXJ2ZXIgYW5kIHRoZW4gdGVzdGluZyBhZ2Fp
-bnN0IGl0IHdpdGggY3VybCwgb3Igc2V0dGluZyB1cCBhbiBpcGVyZiBjbGll
-bnQvc2VydmVyIGNvbWJvKQoKIyBSZXNvdXJjZXMKCkRvY3VtZW50YXRpb24g
-Zm9yIFRvREQgaXMgYXZhaWxhYmxlIFtoZXJlXShodHRwOi8vdG9kZC5yZWFk
-dGhlZG9jcy5vcmcvZW4vbGF0ZXN0LykuIE5vdGUgdGhhdCBpbiB0aGUgdGlt
-ZSBpbW1lZGlhdGVseSBmb2xsb3dpbmcgdGhlIHJlbGVhc2UsIHRoZXNlIGRv
-Y3Mgd2lsbCBiZSBjb25zdGFudGx5IHVwZGF0ZWQsIHNvIGRvbid0IGZyZXQg
-aWYgdGhlc2UgcGFnZXMgYXJlIGEgYml0IGVtcHR5IGZvciB0aGUgbmV4dCBm
-ZXcgd2Vla3MuCgpUaGUgW1RvREQgbWFpbGluZyBsaXN0XShodHRwczovL2dy
-b3Vwcy5nb29nbGUuY29tL2ZvcnVtLyMhZm9ydW0vdG9kZC1kZXYpIGlzIGFs
-c28gYW4gZXhjZWxsZW50IHBsYWNlIHRvIGdldCBzb21lIHN1cHBvcnQgZnJv
-bSB0aGUgY29tbXVuaXR5LCBvciB0byBoYXZlIGEgZGlzY3Vzc2lvbiBhYm91
-dCBhIGZlYXR1cmUgb3IgcHJvYmxlbSB3aXRoIFRvREQuCgojIEdldHRpbmcg
-U3RhcnRlZAoKVGhlIGJlc3Qgd2F5IHRvIGdldCBUb0REIHJ1bm5pbmcgaXMg
-YnkgbGV2ZXJhZ2luZyB0aGUgVmFncmFudGZpbGUgcHJvdmlkZWQgaW4gdGhp
-cyByZXBvc2l0b3J5LiBUaGlzIFZhZ3JhbnRmaWxlIGNvbWVzIHdpdGggYW4g
-QW5zaWJsZSBwbGF5Ym9vaywgc28gdGhlIHNpbXBsZXN0IHdheSB0byBnZXQg
-dGhpcyBlbnZpcm9ubWVudCBraWNrZWQgb2ZmIGlzOgoKICAgIGdpdCBjbG9u
-ZSBnaXRAZ2l0aHViLmNvbS90b2RkcHJvamVjdC90b2RkLmdpdAogICAgY2Qg
-dG9kZC8KICAgIHZhZ3JhbnQgdXAKCldhaXQgZm9yIHRoZSBBbnNpYmxlIHBs
-YXlib29rIHRvIGZpbmlzaCwgYW5kIHdoZW4gaXQncyBkb25lLCB5b3Ugd2ls
-bCBoYXZlIGEgVk0gd2l0aCB0aGUgR28gZW52aXJvbm1lbnQgc2V0IHVwIGZv
-ciB5b3UsIGFuZCByZWFkeSBmb3IgeW91IHRvIHBlcmZvcm0gYW4gaW5zdGFs
-bC4KClRvIGluc3RhbGwsIFNTSCBpbnRvIHRoZSBWTSBhbmQgdXNlIHRoZSBw
-cm92aWRlZCBNYWtlZmlsZToKCiAgICB2YWdyYW50IHNzaAogICAgY2Qgfi9n
-by9zcmMvZ2l0aHViLmNvbS90b2RkcHJvamVjdC90b2RkCiAgICBzdWRvIC1F
-IEdPUEFUSD0vaG9tZS92YWdyYW50L2dvIFBBVEg9JFBBVEg6L2hvbWUvdmFn
-cmFudC9nbyBtYWtlIGluc3RhbGwKICAgIHRvZGQgLS1oZWxwCgpUaGF0IGxh
-c3QgY29tbWFuZCBzaG91bGQgc2hvdyB0aGUgVG9ERCBoZWxwIG91dHB1dCAt
-IGlmIHlvdSBzZWUgdGhpcywgVG9ERCBoYXMgYmVlbiBpbnN0YWxsZWQhCgpU
-aGVyZSBpcyBhbHNvIGEgaGFuZHkgc2NyaXB0IGZvciBzdGFydGluZyBhIGZl
-dyBjb250YWluZXJzIHRoYXQgYXJlIHVzZWZ1bCBmb3IgcnVubmluZyBUb0RE
-LiBOb3Qgb25seSBpcyBUb0REIGF2YWlsYWJsZSBhcyBhIGRvY2tlciBjb250
-YWluZXIgKGRvd25sb2FkYWJsZSBmcm9tIERvY2tlciBIdWIpIGJ1dCB0aGUg
-c2NyaXB0IHdpbGwgYWxzbyBzcGluIHVwIHNvbWUgaW5mcmFzdHJ1Y3R1cmUg
-dGhhdCBUb0REIHdpbGwgdXNlIHRvIGNvbW11bmljYXRlIHdpdGggYWdlbnRz
-LCBvciBzdG9yZSB0ZXN0IGRhdGE6CgogICAgc2NyaXB0cy9zdGFydC1jb250
-YWluZXJzLnNoCgpUaGlzIHNjcmlwdCB3aWxsIGtpbGwgYW55IGFscmVhZHkt
-cnVubmluZyBjb250YWluZXJzLCBidXQgaWYgdGhpcyBpcyB0aGUgZmlyc3Qg
-dGltZSBydW5uaW5nIHRoaXMgc2NyaXB0LCBpdCdzIGEgaGFuZHkgdG9vbCB0
-byBnZXQgYWxsIG9mIHRoZXNlIHNlcnZpY2VzIHN0YXJ0ZWQgcXVpY2tseS4g
-VGhlIEFuc2libGUgcGxheWJvb2sgYWNjb21wYW55aW5nIHRoaXMgdmFncmFu
-dGZpbGUgd2lsbCBzZXQgdXAgRG9ja2VyIG9uIHRoZSBWTSwgc28geW91IHNo
-b3VsZCBiZSBhYmxlIHRvIHJ1biB0aGlzIHNjcmlwdCByaWdodCBhd2F5LgoK
-WW91IGNhbiwgb2YgY291cnNlLCBzZXQgdXAgeW91ciBvd24gbWFjaGluZSwg
-YW5kIGp1c3QgdXNlIHRoZSBwcm92aWRlZCBtYWtlZmlsZS4gSWYgeW91IGRv
-IHRoaXMsIHlvdSBtdXN0IGVuc3VyZSB0aGUgZm9sbG93aW5nIGlzIGRvbmU6
-CgotIFlvdXIgR28gaW5zdGFsbGF0aW9uIGlzIGF2YWlsYWJsZSB0byB0aGUg
-dXNlciB5b3UncmUgcnVubmluZywgYW5kIHlvdXIgR09QQVRIIGlzIHNldCBj
-b3JyZWN0bHkuIEJhc2ljYWxseSwgeW91IGhhdmUgYSB3b3JraW5nIEdvIGNv
-bmZpZ3VyYXRpb24uCi0gWW91IGhhdmUgYWRkZWQgJEdPUEFUSC9iaW4gdG8g
-eW91ciBQQVRICi0gWW91IGhhdmUgaW50ZXJuZXQgYWNjZXNzICh3ZSBuZWVk
-IHRvICJnbyBnZXQiIGEgZmV3IHRvb2xzIGR1cmluZyB0aGUgYnVpbGQpCgpB
-c3N1bWluZyB0aGUgYWJvdmUgY3JpdGVyaWEgaGF2ZSBiZWVuIG1ldCwgeW91
-IHNob3VsZCBiZSByZWFkeSB0byBydW4gIm1ha2UgaW5zdGFsbCIuIE9uY2Ug
-dGhpcyBoYXMgZmluaXNoZWQsIHlvdSBzaG91bGQgYmUgYWJsZSB0byBydW4g
-dGhlICJ0b2RkLXNlcnZlciIsICJ0b2RkLWFnZW50IiwgYW5kICJ0b2RkIiBi
-aW5hcmllcyBmcm9tIHlvdXIgc2hlbGwuCgojIERvY2tlcgoKQSBEb2NrZXIg
-Y29udGFpbmVyIGZvciBUb0REIFtpcyBhdmFpbGFibGUgZnJvbSBEb2NrZXIg
-SHViXShodHRwczovL2h1Yi5kb2NrZXIuY29tL3IvdG9kZHByb2plY3QvdG9k
-ZC8pOgoKICAgIGRvY2tlciBwdWxsIHRvZGRwcm9qZWN0L3RvZGQKCiMgQ29u
-dHJpYnV0aW5nCgpJZiB5b3Ugd2FudCB0byBjb250cmlidXRlIHNvbWUgY29k
-ZSB0byBUb0RELCBwbGVhc2UgcmV2aWV3IFtDT05UUklCVVRJTkcubWRdKGh0
-dHBzOi8vZ2l0aHViLmNvbS90b2RkcHJvamVjdC90b2RkL2Jsb2IvbWFzdGVy
-L0NPTlRSSUJVVElORy5tZCkgZmlyc3QuCgojIFdBUk5JTkcKCldpdGggZ3Jl
-YXQgcG93ZXIgY29tZXMgZ3JlYXQgcmVzcG9uc2liaWxpdHkuIERvIG5vdCB1
-c2UgVG9ERCBmb3IgYW55IHB1cnBvc2VzIG90aGVyIHRoYW4gdG8gdGVzdCB5
-b3VyIG93biBpbmZyYXN0cnVjdHVyZS4gVG9ERCB3YXMgbm90IGNyZWF0ZWQg
-Zm9yIG5lZmFyaW91cyByZWFzb25zLCBhbmQgeW91IGFsb25lIGFyZSByZXNw
-b25zaWJsZSBmb3IgaG93IHlvdSB1c2UgVG9ERC4K
+ToDD
+====
+[![Build Status](https://travis-ci.org/toddproject/todd.svg?branch=master)](https://travis-ci.org/toddproject/todd)
+[![Documentation Status](https://readthedocs.org/projects/todd/badge/?version=latest)](http://todd.readthedocs.org/en/latest/?badge=latest)
+[![Go Report Card](https://goreportcard.com/badge/github.com/toddproject/todd)](https://goreportcard.com/report/github.com/toddproject/todd)
+
+ToDD stands for "Testing on Demand: Distributed!". ToDD is an extensible framework for providing natively distributed testing on demand.
+
+> ToDD should be considered "early alpha" status at this point. Current efforts are focused primarily at increasing test coverage and greater reliability, in order to move ToDD into a more stable, beta status.
+
+# Overview
+
+Traditionally, the tooling used by network engineers to confirm continued network operation after any kind of change to the network is fairly limited. After a change, a network engineer may run "ping" or "traceroute" from their machine, or perhaps call some application owners to ensure that their apps are still working. Unfortunately, there is a very big difference in network activity between a 3AM change window and peak user activity during the day.
+
+ToDD addresses gaps in today's testing software in three ways:
+
+- Enables real-world traffic distribution for tests using very simple grouping primitives
+- Provides a totally open and extensible mechanism for defining tests
+- Exposes testing data in a totally open way, easily allowing for 3rd party software to analyze and visualize
+
+ToDD is a framework through which you can deploy simple test-oriented applications in a distributed manner. With ToDD, you distribute agents around your infrastructure in any place where you feel additional "testing power" is warranted. Then, these agents can be leveraged to mimic real-world network utilization by actually running those same applications at a large scale.
+
+Here are some key features provided by ToDD:
+
+- **Highly Extensible** - ToDD uses an extremely generic interface (called testlets) for running applications, so that users can very easily augment ToDD to support a new application.
+- **Post-Test Analytics** - ToDD integrates with time-series databases, such as influxdb. With this, engineers can schedule ToDD test runs to occur periodically, and observe the testrun metrics changing over time.
+- **Grouping** - ToDD performs testruns from groups of agents, instead of one specific agent. The user will provide a set of rules that place a given agent into a group (such as hostname, or ip subnet), and ToDD will instruct all agents in that group to perform the test. This means that the power of a test can be increased by simply spinning up additional agents in that group.
+- **Diverse Target Types** - Test runs can be configured to target a list of "dumb" targets (targets that are not running a ToDD agent), or a ToDD group. This is useful for certain applications where you need to be able to set up both ends of a test (i.e. setting up a webserver and then testing against it with curl, or setting up an iperf client/server combo)
+
+# Resources
+
+Documentation for ToDD is available [here](http://todd.readthedocs.org/en/latest/). Note that in the time immediately following the release, these docs will be constantly updated, so don't fret if these pages are a bit empty for the next few weeks.
+
+The [ToDD mailing list](https://groups.google.com/forum/#!forum/todd-dev) is also an excellent place to get some support from the community, or to have a discussion about a feature or problem with ToDD.
+
+# Getting Started
+
+The best way to get ToDD running is by leveraging the Vagrantfile provided in this repository. This Vagrantfile comes with an Ansible playbook, so the simplest way to get this environment kicked off is:
+
+    git clone git@github.com/toddproject/todd.git
+    cd todd/
+    vagrant up
+
+Wait for the Ansible playbook to finish, and when it's done, you will have a VM with the Go environment set up for you, and ready for you to perform an install.
+
+To install, SSH into the VM and use the provided Makefile:
+
+    vagrant ssh
+    cd ~/go/src/github.com/toddproject/todd
+    sudo -E GOPATH=/home/vagrant/go PATH=$PATH:/home/vagrant/go make install
+    todd --help
+
+That last command should show the ToDD help output - if you see this, ToDD has been installed!
+
+There is also a handy script for starting a few containers that are useful for running ToDD. Not only is ToDD available as a docker container (downloadable from Docker Hub) but the script will also spin up some infrastructure that ToDD will use to communicate with agents, or store test data:
+
+    scripts/start-containers.sh
+
+This script will kill any already-running containers, but if this is the first time running this script, it's a handy tool to get all of these services started quickly. The Ansible playbook accompanying this vagrantfile will set up Docker on the VM, so you should be able to run this script right away.
+
+You can, of course, set up your own machine, and just use the provided makefile. If you do this, you must ensure the following is done:
+
+- Your Go installation is available to the user you're running, and your GOPATH is set correctly. Basically, you have a working Go configuration.
+- You have added $GOPATH/bin to your PATH
+- You have internet access (we need to "go get" a few tools during the build)
+
+Assuming the above criteria have been met, you should be ready to run "make install". Once this has finished, you should be able to run the "todd-server", "todd-agent", and "todd" binaries from your shell.
+
+# Docker
+
+A Docker container for ToDD [is available from Docker Hub](https://hub.docker.com/r/toddproject/todd/):
+
+    docker pull toddproject/todd
+
+# Contributing
+
+If you want to contribute some code to ToDD, please review [CONTRIBUTING.md](https://github.com/toddproject/todd/blob/master/CONTRIBUTING.md) first.
+
+# WARNING
+
+With great power comes great responsibility. Do not use ToDD for any purposes other than to test your own infrastructure. ToDD was not created for nefarious reasons, and you alone are responsible for how you use ToDD.
