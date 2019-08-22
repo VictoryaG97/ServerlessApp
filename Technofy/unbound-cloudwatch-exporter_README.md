@@ -1,47 +1,41 @@
-IyBVbmJvdW5kIHRvIEFXUyBDbG91ZFdhdGNoIHN0YXRzIGV4cG9ydGVyCgpG
-ZXRjaCBzdGF0cyBmcm9tIFVuYm91bmQgcmVtb3RlIGNvbnRyb2wgaW50ZXJm
-YWNlIGFuZCBwdXNoIHRvIEFXUyBDbG91ZFdhdGNoCgojIyBIb3cgdG8gZ2V0
-IHJ1bm5pbmcKCkNsb25lIHRoZSByZXBvc2l0b3J5IGFuZCBydW4gOgoKYHBp
-cCBpbnN0YWxsIC1yIHJlcXVpcmVtZW50cy50eHRgCgpPcGVuIHRoZSBzY3Jp
-cHQgYW5kIGNvbmZpZ3VyZSB0aGUgVW5ib3VuZCBiaW5hcmllcyBwYXRoLCB0
-aGUgQVdTIENsb3VkV2F0Y2ggY3VzdG9tIG5hbWVzcGFjZSBhbmQgdGhlIG1l
-dHJpY3MgbWFwcGluZzoKCmBgYHB5dGhvbgojIyMjIyMjIyMjIyMjIyMjIyMj
-CiMgQ29uZmlndXJlIGhlcmUKIyMjIyMjIyMjIyMjIyMjIyMjIwojIEFXUyBD
-bG91ZFdhdGNoIEN1c3RvbSBOYW1lc3BhY2UKYXdzX25hbWVzcGFjZSA9ICJN
-eU5hbWVzcGFjZS9VbmJvdW5kIgoKIyBNYXAgVW5ib3VuZCBpbmRpdmlkdWFs
-IHN0YXRzIHRvIEFXUyBDbG91ZFdhdGNoIG1ldHJpY3MKYXdzX21ldHJpY3Nf
-bWFwcGluZyA9IHsKICAgICJ0b3RhbC5udW0ucmVjdXJzaXZlcmVwbGllcyI6
-ICJSZWN1cnNpdmVSZXBsaWVzIiwKICAgICJ0b3RhbC50Y3B1c2FnZSI6ICJU
-Y3BVc2FnZSIsCiAgICAidG90YWwubnVtLnF1ZXJpZXMiOiAiTnVtUXVlcmll
-cyIsCn0KIyBVbmJvdW5kIGJpbmFyaWVzIHBhdGgKdWJfcGF0aCA9ICIvdXNy
-L2xvY2FsL3NiaW4iCmBgYAoKSW4gdGhlIGV4YW1wbGVzIGZvbGRlciwgeW91
-IGNhbiBmaW5kIHRoZSBjb21wbGV0ZSBsaXN0IG9mIHN0YXRzIGV4cG9ydGVk
-IGJ5IFVuYm91bmQgYW5kIHRoZSBhc3NvY2lhdGVkIEFXUyBDbG91ZFdhdGNo
-IG1ldHJpY3MuCllvdSBjYW4gYWxzbyBmaW5kIGFuIGV4YW1wbGUgcG9saWN5
-IGZpbGUgdG8gc2V0IGFzIGEgcm9sZSBvbiBBV1MgaW4gb3JkZXIgdG8gZ2l2
-ZSB0aGUgcmlnaHQgcGVybWlzc2lvbnMgdG8gdGhpcyBzY3JpcHQgZm9yIHB1
-c2hpbmcgZGF0YSB0byBDbG91ZFdhdGNoLgoKIyMgTGljZW5zZQoKQ29weXJp
-Z2h0IDIwMTcgVGVjaG5vZnkKClBlcm1pc3Npb24gaXMgaGVyZWJ5IGdyYW50
-ZWQsIGZyZWUgb2YgY2hhcmdlLCB0byBhbnkgcGVyc29uIG9idGFpbmluZyBh
-IGNvcHkgb2YgdGhpcyBzb2Z0d2FyZSBhbmQgYXNzb2NpYXRlZCBkb2N1bWVu
-dGF0aW9uIGZpbGVzICh0aGUgIlNvZnR3YXJlIiksIHRvIGRlYWwgaW4gdGhl
-IFNvZnR3YXJlIHdpdGhvdXQgcmVzdHJpY3Rpb24sIGluY2x1ZGluZyB3aXRo
-b3V0IGxpbWl0YXRpb24gdGhlIHJpZ2h0cyB0byB1c2UsIGNvcHksIG1vZGlm
-eSwgbWVyZ2UsIHB1Ymxpc2gsIGRpc3RyaWJ1dGUsIHN1YmxpY2Vuc2UsIGFu
-ZC9vciBzZWxsIGNvcGllcyBvZiB0aGUgU29mdHdhcmUsIGFuZCB0byBwZXJt
-aXQgcGVyc29ucyB0byB3aG9tIHRoZSBTb2Z0d2FyZSBpcyBmdXJuaXNoZWQg
-dG8gZG8gc28sIHN1YmplY3QgdG8gdGhlIGZvbGxvd2luZyBjb25kaXRpb25z
-OgoKVGhlIGFib3ZlIGNvcHlyaWdodCBub3RpY2UgYW5kIHRoaXMgcGVybWlz
-c2lvbiBub3RpY2Ugc2hhbGwgYmUgaW5jbHVkZWQgaW4gYWxsIGNvcGllcyBv
-ciBzdWJzdGFudGlhbCBwb3J0aW9ucyBvZiB0aGUgU29mdHdhcmUuCgpUSEUg
-U09GVFdBUkUgSVMgUFJPVklERUQgIkFTIElTIiwgV0lUSE9VVCBXQVJSQU5U
-WSBPRiBBTlkgS0lORCwgRVhQUkVTUyBPUiBJTVBMSUVELCBJTkNMVURJTkcg
-QlVUIE5PVCBMSU1JVEVEIFRPIFRIRSBXQVJSQU5USUVTIE9GIE1FUkNIQU5U
-QUJJTElUWSwgRklUTkVTUyBGT1IgQSBQQVJUSUNVTEFSIFBVUlBPU0UgQU5E
-IE5PTklORlJJTkdFTUVOVC4gSU4gTk8gRVZFTlQgU0hBTEwgVEhFIEFVVEhP
-UlMgT1IgQ09QWVJJR0hUIEhPTERFUlMgQkUgTElBQkxFIEZPUiBBTlkgQ0xB
-SU0sIERBTUFHRVMgT1IgT1RIRVIgTElBQklMSVRZLCBXSEVUSEVSIElOIEFO
-IEFDVElPTiBPRiBDT05UUkFDVCwgVE9SVCBPUiBPVEhFUldJU0UsIEFSSVNJ
-TkcgRlJPTSwgT1VUIE9GIE9SIElOIENPTk5FQ1RJT04gV0lUSCBUSEUgU09G
-VFdBUkUgT1IgVEhFIFVTRSBPUiBPVEhFUiBERUFMSU5HUyBJTiBUSEUgU09G
-VFdBUkUu
+# Unbound to AWS CloudWatch stats exporter
+
+Fetch stats from Unbound remote control interface and push to AWS CloudWatch
+
+## How to get running
+
+Clone the repository and run :
+
+`pip install -r requirements.txt`
+
+Open the script and configure the Unbound binaries path, the AWS CloudWatch custom namespace and the metrics mapping:
+
+```python
+###################
+# Configure here
+###################
+# AWS CloudWatch Custom Namespace
+aws_namespace = "MyNamespace/Unbound"
+
+# Map Unbound individual stats to AWS CloudWatch metrics
+aws_metrics_mapping = {
+    "total.num.recursivereplies": "RecursiveReplies",
+    "total.tcpusage": "TcpUsage",
+    "total.num.queries": "NumQueries",
+}
+# Unbound binaries path
+ub_path = "/usr/local/sbin"
+```
+
+In the examples folder, you can find the complete list of stats exported by Unbound and the associated AWS CloudWatch metrics.
+You can also find an example policy file to set as a role on AWS in order to give the right permissions to this script for pushing data to CloudWatch.
+
+## License
+
+Copyright 2017 Technofy
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
